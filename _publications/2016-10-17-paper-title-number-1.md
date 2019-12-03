@@ -9,4 +9,4 @@ paperurl: ''
 citation: ''
 ---
 This is joint work with Lei Song, Yuan Feng, and Lijun Zhang.
-The published version is available [here](https://ieeexplore.ieee.org/document/7774646/).
+The published paper is available [here](https://ieeexplore.ieee.org/document/7774646/).

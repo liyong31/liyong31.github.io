@@ -9,4 +9,4 @@ paperurl: ''
 citation: ''
 ---
 This is joint work with Yu-Fang Chen, Matthias Heizmann, Ondrej Lengál, Ming-Hsien Tsai, Andrea Turrini, and Lijun Zhang.
-The published version is available [here](https://dl.acm.org/citation.cfm?doid=3192366.3192405).
+The published paper is available [here](https://dl.acm.org/citation.cfm?doid=3192366.3192405).

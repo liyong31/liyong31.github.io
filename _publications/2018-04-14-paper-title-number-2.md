@@ -9,4 +9,4 @@ paperurl: ''
 citation: ''
 ---
 This is joint work with Matthias Heizmann, Yu-Fang Chen, Daniel Dietsch, Marius Greitschus, Jochen Hoenicke, Alexander Nutz, Betim Musa, Christian Schilling, Tanja Schindler, and Andreas Podelski
-The published version is available [here](https://link.springer.com/chapter/10.1007/978-3-319-89963-3_30).
+The published paper is available [here](https://link.springer.com/chapter/10.1007/978-3-319-89963-3_30).

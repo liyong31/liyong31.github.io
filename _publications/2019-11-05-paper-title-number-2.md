@@ -9,4 +9,4 @@ paperurl: ''
 citation: ''
 ---
 This is joint work with Yi Li, Xuechao Sun, Andrea Turrini, and Lijun Zhang.
-The published version is available [here](https://link.springer.com/chapter/10.1007%2F978-3-030-32409-4_27).
+The published paper is available [here](https://link.springer.com/chapter/10.1007%2F978-3-030-32409-4_27).

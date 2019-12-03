@@ -9,4 +9,4 @@ paperurl: ''
 citation: ''
 ---
 This is joint work with Xuechao Sun, Andrea Turrini, Yu-Fang Chen, and Junnan Xu.
-The published version is available [here](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17462-0_23).
+The published paper is available [here](https://link.springer.com/content/pdf/10.1007%2F978-3-030-17462-0_23).

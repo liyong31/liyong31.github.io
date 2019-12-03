@@ -9,5 +9,5 @@ paperurl: ''
 citation: ''
 ---
 This is joint work with Yu-Fang Chen, Lijun Zhang, and Depeng Liu.
-The published version is available [here](https://link.springer.com/chapter/10.1007/978-3-662-54577-5_12).
+The published paper is available [here](https://link.springer.com/chapter/10.1007/978-3-662-54577-5_12).
 

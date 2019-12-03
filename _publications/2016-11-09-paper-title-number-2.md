@@ -9,4 +9,4 @@ paperurl: ''
 citation: ''
 ---
 This is joint work with Wanwei Liu, Andrea Turrini, Ernst Moritz Hahn, and Lijun Zhang.
-The published version is available [here](https://link.springer.com/chapter/10.1007/978-3-319-47677-3_18).
+The published paper is available [here](https://link.springer.com/chapter/10.1007/978-3-319-47677-3_18).
