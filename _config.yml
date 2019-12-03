@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yong Li's Homepage"
+title                    : "Yong Li(李勇)'s Homepage"
 title_separator          : "-"
 name                     : &name "Yong Li"
 description              : &description "personal description"
