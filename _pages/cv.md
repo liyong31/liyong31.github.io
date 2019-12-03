@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+CV can be downloaded [here](https://liyong31.github.io/files/cv.pdf)
+
 Education
 ======
 * [**Institute of Software, Chinese Academy of Sciences**](http://english.is.cas.cn/), Beijing, China

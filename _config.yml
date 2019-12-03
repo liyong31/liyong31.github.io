@@ -68,7 +68,7 @@ author:
   avatar           : "pic.jpg"
   bio              : "Ph.D. student"
   location         : "Beijing, China"
-  CV               : "cv.pdf"
+#  CV               : "cv.pdf"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
