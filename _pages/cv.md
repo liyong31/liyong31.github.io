@@ -14,7 +14,7 @@ Education
 * **Institute of Software, Chinese Academy of Sciences**, Beijing, China
   
   **University of Chinese Academy of Sciences**, Beijing, China
-  * Ph.D in Computer Software and Theory, Sept. 2013 - Jan. 2020 (expected)
+  * Ph.D. in Computer Software and Theory, Sept. 2013 - Jan. 2020 (expected)
   * Advisor: Prof. Lijun Zhang
   
 * **Nanjing University of Posts and Telecommunications**, Nanjing, China
@@ -22,31 +22,23 @@ Education
 
 Research stays
 ======
-* Feb. 1 – Jun. 30, 2019: Visiting Ph.D. student
-  * **Department of Computer Science, Rice University**
+* **Department of Computer Science, Rice University**: Visiting Ph.D. student
   * Host: Prof. Moshe Y. Vardi
+  * Feb. 1 – Jun. 30, 2019
+
   
-* Jul. 11 – Jul. 26, 2018: Visiting Ph.D. student
-  * **Institute of Information Science, Academia Sinica**
+* **Institute of Information Science, Academia Sinica**: Visiting Ph.D. student
   * Host: Dr. Yu-Fang Chen
-* Jan. 27 – Feb. 9, 2018: Visiting Ph.D. student
-  * **Institute of Information Science, Academia Sinica**
-  * Host: Dr. Yu-Fang Chen
-* Nov. 3 – Nov. 18, 2017: Visiting Ph.D. student
-  * **Institute of Information Science, Academia Sinica**
-  * Host: Dr. Yu-Fang Chen
-* Aug. 22 – Sept. 6, 2017: Visiting Ph.D. student
-  * **Institute of Information Science, Academia Sinica**
-  * Host: Dr. Yu-Fang Chen
-* May 17 – May 31, 2017: Visiting Ph.D. student
-  * **Institute of Information Science, Academia Sinica**
-  * Host: Dr. Yu-Fang Chen
-* Feb. 1 – Feb. 15, 2016: Visiting Ph.D. student
-  * **Dependable Systems and Software Group, Universität des Saarlandes**
+  * Jul. 11 – Jul. 26, 2018, Jan. 27 – Feb. 9, 2018, Nov. 3 – Nov. 18, 2017
+   
+    , Aug. 22 – Sept. 6, 2017, May 17 – May 31, 2017
+
+* **Dependable Systems and Software Group, Universität des Saarlandes**: Visiting Ph.D. student
   * Host: Prof. Holger Hermanns
-* Oct. 17, 2015 – Jan. 31, 2016: Visiting Ph.D. student
-  * **Software Modelling and Verification Group, RWTH Aachen**
+  * Feb. 1 – Feb. 15, 2016
+* **Software Modelling and Verification Group, RWTH Aachen**: Visiting Ph.D. student
   * Host: Prof. Joost-Pieter Katoen
+  * Oct. 17, 2015 – Jan. 31, 2016
 
 Publications
 ======
