@@ -8,4 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Yong Li's homepage
+I am a Ph.D. student at State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences.
+My main research interests are, but not limited to, the following:
+
+  * Model checking
+
+  * Logic and Automata
+
+  * Synthesis
