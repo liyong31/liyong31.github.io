@@ -11,10 +11,13 @@ redirect_from:
 
 Education
 ======
+* Institute of Software, Chinese Academy of Sciences, Beijing, China
+  University of Chinese Academy of Sciences, Beijing, China
+  * Ph.D in Computer Software and Theory, Sept. 2013 - Jan. 2020 (expected)
+  * Advisor: Prof. Lijun Zhang
+  
 * Nanjing University of Posts and Telecommunications, Nanjing, China
   * B.S. in Computer Science and Technology, Sept. 2009 - Jul. 2013
-* Institute of Software, Chinese Academy of Sciences and University of Chinese Academy of Sciences, Beijing, China
-  * Ph.D in Computer Software and Theory, Sept. 2013 - Jan. 2020 (expected)
 
 Research stays
 ======
