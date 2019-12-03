@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* **Institute of Software, Chinese Academy of Sciences**, Beijing, China
+* [**Institute of Software, Chinese Academy of Sciences**](http://english.is.cas.cn/), Beijing, China
   
-  **University of Chinese Academy of Sciences**, Beijing, China
+  [**University of Chinese Academy of Sciences**](http://english.ucas.ac.cn/), Beijing, China
   * Ph.D. in Computer Software and Theory, Sept. 2013 - Jan. 2020 (expected)
   * Advisor: Prof. Lijun Zhang
   
-* **Nanjing University of Posts and Telecommunications**, Nanjing, China
+* [**Nanjing University of Posts and Telecommunications**](http://www.njupt.edu.cn/en/), Nanjing, China
   * B.S. in Computer Science and Technology, Sept. 2009 - Jul. 2013
 
 Research stays
@@ -58,7 +58,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
 * Subreviewer: FOSSACS 2020, FM 2019, TASE 2019, ICECCS 2018
 * TACAS 2019 Artifact Evaluation PC member
