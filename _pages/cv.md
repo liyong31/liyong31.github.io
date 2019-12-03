@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology, Nanjing University of Posts and Telecommunications, Sept. 2009 - Jul. 2013
-* Ph.D in Computer Software and Theory, Institute of Software, Chinese Academy of Sciences and University of Chinese Academy of Sciences, Sept. 2013 - Jan. 2020 (expected)
+* Nanjing University of Posts and Telecommunications, Nanjing, China
+  * B.S. in Computer Science and Technology, Sept. 2009 - Jul. 2013
+* Institute of Software, Chinese Academy of Sciences and University of Chinese Academy of Sciences, Beijing, China
+  * Ph.D in Computer Software and Theory, Sept. 2013 - Jan. 2020 (expected)
 
 Research stays
 ======
