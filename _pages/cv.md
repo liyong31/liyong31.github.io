@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology, Nanjing University of Posts and Telecommunications, Sept. 2009 - Jul. 2013
+* Ph.D in Computer Software and Theory, Institute of Software, Chinese Academy of Sciences and University of Chinese Academy of Sciences, Sept. 2013 - Jan. 2020 (expected)
 
-Work experience
+Research stays
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb. 1 – Jun. 30, 2019: Visiting Ph.D. student
+  * Rice University
+  * Host: Prof. Moshe Y. Vardi
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jul. 11 – Jul. 26, 2018: Visiting Ph.D. student
+  * Academia Sinica
+  * Host: Dr. Yu-Fang Chen
+* Jan. 27 – Feb. 9, 2018: Visiting Ph.D. student
+  * Academia Sinica
+  * Host: Dr. Yu-Fang Chen
+* Nov. 3 – Nov. 18, 2017: Visiting Ph.D. student
+  * Academia Sinica
+  * Host: Dr. Yu-Fang Chen
+* Aug. 22 – Sept. 6, 2017: Visiting Ph.D. student
+  * Academia Sinica
+  * Host: Dr. Yu-Fang Chen
+* May 17 – May 31, 2017: Visiting Ph.D. student
+  * Academia Sinica
+  * Host: Dr. Yu-Fang Chen
+* Feb. 1 – Feb. 15, 2016: Visiting Ph.D. student
+  * Universität des Saarlandes
+  * Host: Prof. Holger Hermanns
+* Oct. 17, 2015 – Jan. 31, 2016: Visiting Ph.D. student
+  * RWTH Aachen
+  * Host: Prof. Joost-Pieter Katoen
 
 Publications
 ======
