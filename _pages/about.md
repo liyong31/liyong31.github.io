@@ -21,4 +21,4 @@ Contact
 ======
 Address: No. 616, Room 339, Building 5, South Fourth Street 4#, Zhong Guan Cun, Beijing
 
-Email: liyong###ios##ac#cn or liyong460###gmail#com
+Email: liyong###ios##ac#cn or liyong460###gmail##com
