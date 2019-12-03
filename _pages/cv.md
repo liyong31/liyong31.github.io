@@ -60,4 +60,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Subreviewer: FOSSACS 2020, FM 2019, TASE 2019, ICECCS 2018
+* TACAS 2019 Artifact Evaluation PC member
