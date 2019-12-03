@@ -9,3 +9,4 @@ paperurl: 'https://link.springer.com/chapter/10.1007%2F978-3-319-73721-8_15'
 citation: ''
 ---
 This is joint work with Andrea Turrini, Lijun Zhang, and Sven Schewe.
+The published version is available [here](https://link.springer.com/chapter/10.1007%2F978-3-319-73721-8_15).
