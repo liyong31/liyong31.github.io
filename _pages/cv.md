@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Institute of Software, Chinese Academy of Sciences, Beijing, China
+
   University of Chinese Academy of Sciences, Beijing, China
   * Ph.D in Computer Software and Theory, Sept. 2013 - Jan. 2020 (expected)
   * Advisor: Prof. Lijun Zhang
