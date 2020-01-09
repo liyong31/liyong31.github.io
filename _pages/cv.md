@@ -16,7 +16,7 @@ Education
 * [**Institute of Software, Chinese Academy of Sciences**](http://english.is.cas.cn/), Beijing, China
   
   [**University of Chinese Academy of Sciences**](http://english.ucas.ac.cn/), Beijing, China
-  * Ph.D. in Computer Software and Theory, Sept. 2013 - Jan. 2020 (expected)
+  * Ph.D. in Computer Software and Theory, Sept. 2013 - Jan. 2020
   * Advisor: [Prof. Lijun Zhang](https://iscasmc.ios.ac.cn/?page_id=148)
   
 * [**Nanjing University of Posts and Telecommunications**](http://www.njupt.edu.cn/en/), Nanjing, China

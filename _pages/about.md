@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences](http://lcs.ios.ac.cn/), advised by [Prof. Lijun Zhang](https://iscasmc.ios.ac.cn/?page_id=148).
-Prior to that, I recevied B.S. in Computer Science and Technology at [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/en/).
+I gained a Ph.D. in Computer Software and Theory at [State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences](http://lcs.ios.ac.cn/), advised by [Prof. Lijun Zhang](https://iscasmc.ios.ac.cn/?page_id=148).
+Prior to that, I recevied a B.S. in Computer Science and Technology at [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/en/).
 My research interests are, but not limited to, the following:
 
   * Model checking
