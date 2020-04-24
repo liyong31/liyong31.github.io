@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an asistant researcher at [State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences](http://lcs.ios.ac.cn/).
-Besides this, I am also a virtual Postdoctoral researcher working with [Prof. Moshe Y. Vardi](http://www.cs.rice.edu/~vardi/) at Rice University.
+I am currently an Asistant Researcher at [State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences](http://lcs.ios.ac.cn/).
+Besides this, I am also a virtual Postdoctoral Researcher working with [Prof. Moshe Y. Vardi](http://www.cs.rice.edu/~vardi/) at Rice University.
 I gained a Ph.D. in Computer Software and Theory at [State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences](http://lcs.ios.ac.cn/), advised by [Prof. Lijun Zhang](https://iscasmc.ios.ac.cn/?page_id=148).
 Prior to that, I recevied a B.S. in Computer Science and Technology at [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/en/).
 My research interests are, but not limited to, the following:
