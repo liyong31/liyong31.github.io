@@ -41,26 +41,6 @@ Research stays
 * **Software Modelling and Verification Group, RWTH Aachen**: Visiting Ph.D. student
   * Host: Prof. Joost-Pieter Katoen
   * Oct. 17, 2015 – Jan. 31, 2016
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-<!--
-# Teaching
-# ======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
--->
   
 Service
 ======
