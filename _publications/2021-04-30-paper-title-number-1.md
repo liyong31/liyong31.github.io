@@ -8,4 +8,5 @@ venue: 'Proceedings of the Thirtith International Joint Conference on Artificial
 paperurl: ''
 citation: ''
 ---
-This is joint work with Andrea Turrini, Moshe Y. Vardi and Lijun Zhang.
+This is joint work with Andrea Turrini, Moshe Y. Vardi and Lijun Zhang [paper](https://liyong31.github.io/files/IJCAI21-LiTVZ.pdf).
+
