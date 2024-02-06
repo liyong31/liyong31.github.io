@@ -1,5 +1,5 @@
 ## Publications
-I only listed conference papers only, please refer to [CV](pdf/cv.pdf) for the full publication list.
+I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 
 ### 2023
