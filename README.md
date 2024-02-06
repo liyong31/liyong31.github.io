@@ -4,7 +4,6 @@
     <img src="./img/pic.jpg" alt="Shufang" width="230.7" height="309.3">
      <p>Office 2.21, Ashton Building</p>
     <p>Ashton St, Liverpool L69 3BX, UK</p>
-
 </div>
 
 
@@ -19,9 +18,10 @@ Quick links to find me:
 + <a href="https://github.com/liyong31">Github</a>;
 + <a href="https://dblp.org/pid/93/2334-31.html">DBLP</a>;
 
-<br><br>
+<br><br><br>
 [Experience](#work-experience) | [Education](#education)
 | [Honors](#honors) | [CV](#cv) | [News](#news) | [Publications](#publications) 
+
 ---
 ## Work Experience
 
@@ -50,7 +50,7 @@ Best Paper Award at ATVA 2023 ([paper](./pdf/ATVA2023a.pdf))
 
 Marie Curie Research Fellow 2022
 
-## [CV](./pdf/cv.pdf)
+
 
 
 
@@ -106,6 +106,7 @@ My slide deck is available [here](../assets/pdf/VardiFest-talk.pdf).
   <!-- Add more news items as needed -->
 </details>
 
+## [CV](./pdf/cv.pdf)
 ## [Publications](./publications.md)
 <!-- Your publications content goes here -->
 
