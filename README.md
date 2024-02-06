@@ -74,44 +74,40 @@ Our tool [lisa](https://github.com/liyong31/lisa) has won the third place in the
 Paper titled ["Singly Exponential Translation of Alternating Weak Büchi Automata to Unambiguous Büchi Automata"](https://arxiv.org/pdf/2305.09966.pdf) accepted by CONCUR'23.
 This is joint work with Sven Schewe and Moshe Vardi.
 
+
 <details>
   <summary>Show More News</summary>
 
   <!-- Remaining news items -->
-  **December 23, 2022**
-    Paper titled "Modular Mix-and-Match Complementation of Büchi automata" accepted by TACAS'23.
-This is joint work with Vojtěch Havlena, Ondřej Lengál, Barbora Šmahlíková and Andrea Turrini.
+  <p><strong>December 23, 2022</strong><br>
+  Paper titled "Modular Mix-and-Match Complementation of Büchi automata" accepted by TACAS'23.<br>
+  This is joint work with Vojtěch Havlena, Ondřej Lengál, Barbora Šmahlíková, and Andrea Turrini.</p>
 
+  <p><strong>September 6, 2022</strong><br>
+  Paper titled "Compositional Safety LTL Synthesis" accepted by VSTTE'22.<br>
+  This is joint work with Suguman Bansal, Giuseppe De Giacomo, Antonio Di Stasio, Moshe Y. Vardi, and Shufang Zhu.</p>
 
-  **September 6, 2022**
-Paper titled "Compositional Safety LTL Synthesis" accepted by VSTTE'22.
-This is joint work with Suguman Bansal, Giuseppe De Giacomo, Antonio Di Stasio, Moshe Y. Vardi and Shufang Zhu.
+  <p><strong>August 1, 2022</strong><br>
+  Excited to present joint work with Moshe on Büchi determinization at <a href="https://vardifest.github.io/">VardiFest</a> to celebrate the pioneering role of Moshe Vardi in many fields.<br>
+  My slide deck is available <a href="./pdf/VardiFest-talk.pdf">here</a>.</p>
 
+  <p><strong>July 8, 2022</strong><br>
+  Paper titled "Synthesizing Ranking Functions for Loop Programs via SVM" accepted by Theoretical Computer Science Journal.<br>
+  <a href="./pdf/Henzinger-60.pdf">This work</a> extends our ICFEM'19 paper by utilizing SVM to learn multiphase ranking functions.</p>
 
-  **August 1, 2022**
-Excited to present joint work with Moshe on Büchi determinization at [VardiFest](https://vardifest.github.io/) to celebrate the pioneering role of Moshe Vardi in many fields.
-My slide deck is available [here](../assets/pdf/VardiFest-talk.pdf).
+  <p><strong>June 6, 2022</strong><br>
+  Check out our invited <a href="./pdf/Henzinger-60.pdf">paper</a> on Büchi complementation to Thomas Henzinger Festschrift - Conference celebrating his 60th birthday.</p>
 
+  <p><strong>June 4, 2022</strong><br>
+  Submission to CAV-AE 2022 awarded <a href="https://doi.org/10.5281/zenodo.6558928">Available</a> and Reusable badges.</p>
 
-  **July 8, 2022**
-  Paper titled "Synthesizing Ranking Functions for Loop Programs via SVM" accepted by Theorectical Computer Science Journal.
-[This work](https://doi.org/10.1016/j.tcs.2022.07.002) extends our ICFEM'19 paper by utilizing SVM to learn multiphase ranking functions.
-
-
-  **June 6, 2022**
-  Check out our invited [paper](../assets/pdf/Henzinger-60.pdf) on Büchi complementation to Thomas Henzinger Festschrift - Conference celebrating his 60th birthday.
-
-
-  **June 4, 2022**
-  Submission to CAV-AE 2022 awarded [Available](https://doi.org/10.5281/zenodo.6558928) and Reusable badges.
-
-
-  **May 1, 2022**
-  Paper titled "Divide-and-Conquer Determinization of Büchi Automata based on SCC Decomposition" accepted to CAV 2022. This is joint work with Andrea Turrini, Weizhi Feng, Moshe Vardi and Lijun Zhang.
-
+  <p><strong>May 1, 2022</strong><br>
+  Paper titled "Divide-and-Conquer Determinization of Büchi Automata based on SCC Decomposition" accepted to CAV 2022. This is joint work with Andrea Turrini, Weizhi Feng, Moshe Vardi, and Lijun Zhang.</p>
 
   <!-- Add more news items as needed -->
 </details>
+
+
 
 ## [CV](./pdf/cv.pdf)
 ## [Publications](./publications.md)
