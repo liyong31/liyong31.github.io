@@ -18,7 +18,7 @@ Quick links to find me:
 
 <p>My contact address: Office 2.21, Ashton Building, Ashton St, Liverpool L69 3BX, UK</p>
 
-<br><br><br>
+<br><br>
 [Experience](#work-experience) | [Education](#education)
 | [Honors](#selected-awards-and-honors)  | [News](#news) | [CV](#cv) | [Publications](#publications) 
 
@@ -78,26 +78,33 @@ This is joint work with Sven Schewe and Moshe Vardi.
   <summary>Show More News</summary>
 
   <!-- Remaining news items -->
-  **[December 23, 2022]**
+  **December 23, 2022**
     Paper titled "Modular Mix-and-Match Complementation of Büchi automata" accepted by TACAS'23.
 This is joint work with Vojtěch Havlena, Ondřej Lengál, Barbora Šmahlíková and Andrea Turrini.
 
-  **[September 6, 2022]**
+
+  **September 6, 2022**
 Paper titled "Compositional Safety LTL Synthesis" accepted by VSTTE'22.
 This is joint work with Suguman Bansal, Giuseppe De Giacomo, Antonio Di Stasio, Moshe Y. Vardi and Shufang Zhu.
 
-  **[August 1, 2022]**
+
+  **August 1, 2022**
 Excited to present joint work with Moshe on Büchi determinization at [VardiFest](https://vardifest.github.io/) to celebrate the pioneering role of Moshe Vardi in many fields.
 My slide deck is available [here](../assets/pdf/VardiFest-talk.pdf).
 
-  **[July 8, 2022]**
+
+  **July 8, 2022**
   Paper titled "Synthesizing Ranking Functions for Loop Programs via SVM" accepted by Theorectical Computer Science Journal.
 [This work](https://doi.org/10.1016/j.tcs.2022.07.002) extends our ICFEM'19 paper by utilizing SVM to learn multiphase ranking functions.
 
-  **[June 6, 2022]**
+
+  **June 6, 2022**
   Check out our invited [paper](../assets/pdf/Henzinger-60.pdf) on Büchi complementation to Thomas Henzinger Festschrift - Conference celebrating his 60th birthday.
-  **[June 4, 2022]**
+
+
+  **June 4, 2022**
   Submission to CAV-AE 2022 awarded [Available](https://doi.org/10.5281/zenodo.6558928) and Reusable badges.
+
 
   **May 1, 2022**
   Paper titled "Divide-and-Conquer Determinization of Büchi Automata based on SCC Decomposition" accepted to CAV 2022. This is joint work with Andrea Turrini, Weizhi Feng, Moshe Vardi and Lijun Zhang.
