@@ -2,8 +2,6 @@
 
 <div style="float:left; padding-right:20px;">
     <img src="./img/pic.jpg" alt="Shufang" width="230.7" height="309.3">
-     <p>Office 2.21, Ashton Building</p>
-    <p>Ashton St, Liverpool L69 3BX, UK</p>
 </div>
 
 
@@ -16,11 +14,13 @@ My main interests are in verification and automata theory.
 
 Quick links to find me:
 + <a href="https://github.com/liyong31">Github</a>;
-+ <a href="https://dblp.org/pid/93/2334-31.html">DBLP</a>;
++ <a href="https://dblp.org/pid/93/2334-31.html">DBLP</a>.
+
+<p>My contact address: Office 2.21, Ashton Building, Ashton St, Liverpool L69 3BX, UK</p>
 
 <br><br><br>
 [Experience](#work-experience) | [Education](#education)
-| [Honors](#honors) | [CV](#cv) | [News](#news) | [Publications](#publications) 
+| [Honors](#selected-awards-and-honors)  | [News](#news) | [CV](#cv) | [Publications](#publications) 
 
 ---
 ## Work Experience
