@@ -19,8 +19,8 @@ Quick links to find me:
 <p>My contact address: Office 2.21, Ashton Building, Ashton St, Liverpool L69 3BX, UK</p>
 
 <br><br>
-[Experience](#work-experience) | [Education](#education)
-| [Honors](#selected-awards-and-honors)  | [News](#news) | [CV](./pdf/cv.pdf) | [Publications](#publications) 
+[CV](./pdf/cv.pdf) | [Experience](#work-experience) | [Education](#education)
+| [Honors](#selected-awards-and-honors)  | [News](#news) | [Publications](#publications) 
 
 ---
 ## Work Experience
