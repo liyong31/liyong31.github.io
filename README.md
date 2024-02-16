@@ -1,7 +1,7 @@
 # Yong Li (李勇)
 
 <div style="float:left; padding-right:20px;">
-    <img src="./img/pic.jpg" alt="Shufang" width="230.7" height="309.3">
+    <img src="./img/pic.jpg" alt="liyong" width="230.7" height="309.3">
 </div>
 
 
