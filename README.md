@@ -20,7 +20,7 @@ Quick links to find me:
 
 <br><br>
 [Experience](#work-experience) | [Education](#education)
-| [Honors](#selected-awards-and-honors)  | [News](#news) | [CV](#cv) | [Publications](#publications) 
+| [Honors](#selected-awards-and-honors)  | [News](#news) | [CV](./pdf/cv.pdf) | [Publications](#publications) 
 
 ---
 ## Work Experience
@@ -109,7 +109,7 @@ This is joint work with Sven Schewe and Moshe Vardi.
 
 
 
-## [CV](./pdf/cv.pdf)
+<!-- ## [CV](./pdf/cv.pdf) -->
 ## [Publications](./publications.md)
 <!-- Your publications content goes here -->
 
