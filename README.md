@@ -107,7 +107,16 @@ This is joint work with Sven Schewe and Moshe Vardi.
   <!-- Add more news items as needed -->
 </details>
 
+## Services
+Co-Chair: [SYNT 2024](https://synt2024.github.io/)
 
+PC Member: [ATVA 2024](https://atva-conference.org/2024/)
+
+Reviewer: CAV 2024, ICALP 2024, FOSSACS 2024, CSL 2024, 
+CONCUR 2023, CAV 2023, TACAS 2022, CAV 2021,
+FOSSACS 2020, FM 2019, TASE 2019, ICECCS 2018, LMCS
+
+AE PC Member:  iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 
 <!-- ## [CV](./pdf/cv.pdf) -->
 ## [Publications](./publications.md)
