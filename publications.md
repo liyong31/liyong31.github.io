@@ -8,7 +8,7 @@ I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the f
 [paper](pdf/LimitFDFA.pdf) [slides](pdf/ATVA23b.pdf)
 
 - Bansal, Suguman, Yong Li, , Tabajara, Lucas Martinelli, Vardi, Moshe Y., and Wells, Andrew M.
-Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [paper](pdf/ATVA2023a.pdf) [**Best Paper Award**]
+Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [paper](pdf/ATVA2023a.pdf) [**Best Paper Award**](pdf/bestpaperATVA.pdf)
 
 - Yong Li, Schewe, Sven, and Vardi, Moshe Y. Singly Exponential Translation of Alternating Weak Büchi Automata to Unambiguous Büchi Automata. In CONCUR 2023. [paper](pdf/CONCUR2023.pdf)
 
