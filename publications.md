@@ -1,6 +1,10 @@
 ## Publications
 I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the full publication list.
 
+### 2024
+
+- Li, Yong, Schewe, Sven, and Tang, Qiyi. Angluin-Style Learning of Deterministic B  ̈uchi and Co-B  ̈uchi Automata. In IJCAI 2024
+[paper](pdf/IJCAI24.pdf)
 
 ### 2023
 
