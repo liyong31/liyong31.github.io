@@ -59,7 +59,8 @@ Marie Curie Research Fellow 2022
 <!-- First 5 news items -->
 
 **April 17, 2024**
-Our paper titled "Angluin-Style Learning of Deterministic Büchi and Co-Büchi Automata" has accepted to IJCAI'24.
+Our paper titled "Angluin-Style Learning of Deterministic Büchi and Co-Büchi Automata" has been accepted to IJCAI'24.
+This is joint work with [Sven Schewe](https://cgi.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/).
 
 **October 30, 2023**
 Our paper titled "Model Checking Strategies from Synthesis Over Finite Traces" has won the Best Paper Award at ATVA'23.
