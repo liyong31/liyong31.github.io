@@ -1,4 +1,4 @@
-# Yong Li (李勇)
+# 李勇  Yong Li 
 
 <div style="float:left; padding-right:20px;">
     <img src="./img/pic.jpg" alt="liyong" width="230.7" height="309.3">
