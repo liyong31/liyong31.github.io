@@ -17,6 +17,7 @@ Quick links to find me:
 + <a href="https://dblp.org/pid/93/2334-31.html">DBLP</a>.
 
 <p>My contact address: Office 2.21, Ashton Building, Ashton St, Liverpool L69 3BX, UK</p>
+<p>Email: liyong AT liverpool DOT ac DOT uk</p>
 
 <br><br>
 [CV](./pdf/cv.pdf) | [Experience](#work-experience) | [Education](#education)
