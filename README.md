@@ -59,6 +59,9 @@ Marie Curie Research Fellow 2022
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
+**June 11, 2024**
+Our paper titled "DFAMiner: Mining minimal separating DFAs from labelled samples" has been accepted to FM'24.
+This is joint work with [Daniele Dell'Erba](https://cgi.csc.liv.ac.uk/~dde/) and [Sven Schewe](https://cgi.csc.liv.ac.uk/~sven/).
 
 **April 17, 2024**
 Our paper titled "Angluin-Style Learning of Deterministic Büchi and Co-Büchi Automata" has been accepted to IJCAI'24.
@@ -76,15 +79,17 @@ Two papers are accepted by ATVA'23:
 **June 29, 2023**
 Our tool [lisa](https://github.com/liyong31/lisa) has won the third place in the LTLf track at [SYNTCOMP 2023](http://www.syntcomp.org/)!
 
-**June 28, 2023**
-Paper titled ["Singly Exponential Translation of Alternating Weak Büchi Automata to Unambiguous Büchi Automata"](https://arxiv.org/pdf/2305.09966.pdf) accepted by CONCUR'23.
-This is joint work with Sven Schewe and Moshe Vardi.
+
 
 
 <details>
   <summary>Show More News</summary>
 
   <!-- Remaining news items -->
+  <p><strong>June 28, 2023</strong><br>
+Paper titled ["Singly Exponential Translation of Alternating Weak Büchi Automata to Unambiguous Büchi Automata"](https://arxiv.org/pdf/2305.09966.pdf) accepted by CONCUR'23. 
+This is joint work with Sven Schewe and Moshe Vardi.</p>
+
   <p><strong>December 23, 2022</strong><br>
   Paper titled "Modular Mix-and-Match Complementation of Büchi automata" accepted by TACAS'23.<br>
   This is joint work with Vojtěch Havlena, Ondřej Lengál, Barbora Šmahlíková, and Andrea Turrini.</p>

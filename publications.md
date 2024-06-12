@@ -2,6 +2,8 @@
 I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 ### 2024
+- Dell'Erba, Daniele, Li, Yong, and Schewe, Sven. DFAMiner: Mining minimal separating DFAs from labelled samples
+. In FM 2024 [paper](https://arxiv.org/abs/2405.18871)
 
 - Li, Yong, Schewe, Sven, and Tang, Qiyi. Angluin-Style Learning of Deterministic Büchi and Co-Büchi Automata. In IJCAI 2024
 [paper](pdf/IJCAI24.pdf)
