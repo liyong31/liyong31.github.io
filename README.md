@@ -59,6 +59,10 @@ Marie Curie Research Fellow 2022
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
+**July 9, 2024**
+Our paper titled "DAG-Based Compositional Approaches for LTLf to DFA Conversions" has been accepted to FMCAD'24.
+This is joint work with [Suguman Bansal](https://suguman.github.io/) and her undergraduate student Yash Kankariya.
+
 **June 11, 2024**
 Our paper titled "DFAMiner: Mining minimal separating DFAs from labelled samples" has been accepted to FM'24.
 This is joint work with [Daniele Dell'Erba](https://cgi.csc.liv.ac.uk/~dde/) and [Sven Schewe](https://cgi.csc.liv.ac.uk/~sven/).
@@ -75,17 +79,13 @@ Two papers are accepted by ATVA'23:
 * "On Strategies in Synthesis Over Finite Traces" with Suguman Bansal, Lucas Martinelli Tabajara, Moshe Vardi and Andrew Wells,
 * "A novel family of finite automata for recognizing and learning omega-regular languages" with Sven Schewe and Qiyi Tang.
 
-
-**June 29, 2023**
-Our tool [lisa](https://github.com/liyong31/lisa) has won the third place in the LTLf track at [SYNTCOMP 2023](http://www.syntcomp.org/)!
-
-
-
-
 <details>
   <summary>Show More News</summary>
 
   <!-- Remaining news items -->
+  <p><strong>June 29, 2023</strong><br>
+Our tool [lisa](https://github.com/liyong31/lisa) has won the third place in the LTLf track at [SYNTCOMP 2023](http://www.syntcomp.org/)! </p>
+
   <p><strong>June 28, 2023</strong><br>
 Paper titled ["Singly Exponential Translation of Alternating Weak Büchi Automata to Unambiguous Büchi Automata"](https://arxiv.org/pdf/2305.09966.pdf) accepted by CONCUR'23. 
 This is joint work with Sven Schewe and Moshe Vardi.</p>
