@@ -59,6 +59,9 @@ Marie Curie Research Fellow 2022
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
+**July 16, 2024**
+Our FM paper has been awarded *Available* and *Reusable* badges. Check out our [artifact](https://zenodo.org/records/12528885) and [paper](pdf/FM2024.pdf).  
+
 **July 9, 2024**
 Our paper titled "DAG-Based Compositional Approaches for LTLf to DFA Conversions" has been accepted to FMCAD'24.
 This is joint work with [Suguman Bansal](https://suguman.github.io/) and her undergraduate student Yash Kankariya.
@@ -72,15 +75,19 @@ Our paper titled "Angluin-Style Learning of Deterministic Büchi and Co-Büchi A
 This is joint work with [Sven Schewe](https://cgi.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/).
 
 **October 30, 2023**
-Our paper titled "Model Checking Strategies from Synthesis Over Finite Traces" has won the Best Paper Award at ATVA'23.
+Our paper titled "Model Checking Strategies from Synthesis Over Finite Traces" won the Best Paper Award at ATVA'23.
 
-**July 1, 2023**
-Two papers are accepted by ATVA'23:
-* "On Strategies in Synthesis Over Finite Traces" with Suguman Bansal, Lucas Martinelli Tabajara, Moshe Vardi and Andrew Wells,
-* "A novel family of finite automata for recognizing and learning omega-regular languages" with Sven Schewe and Qiyi Tang.
 
 <details>
   <summary>Show More News</summary>
+
+  <p><strong>July 1, 2023</strong><br>
+Two papers are accepted by ATVA'23:
+
+ "On Strategies in Synthesis Over Finite Traces" with Suguman Bansal, Lucas Martinelli Tabajara, Moshe Vardi and Andrew Wells, <br>
+
+  "A novel family of finite automata for recognizing and learning omega-regular languages" with Sven Schewe and Qiyi Tang. </p>
+
 
   <!-- Remaining news items -->
   <p><strong>June 29, 2023</strong><br>

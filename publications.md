@@ -2,8 +2,12 @@
 I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 ### 2024
+
+- Bansal, Suguman, Kankariya, Yash, and Li, Yong. DAG-Based Compositional Approaches for LTLf to
+DFA Conversions. In FMCAD 2024
+
 - Dell'Erba, Daniele, Li, Yong, and Schewe, Sven. DFAMiner: Mining minimal separating DFAs from labelled samples
-. In FM 2024 [paper](https://arxiv.org/abs/2405.18871)
+. In FM 2024 [paper](https://arxiv.org/abs/2405.18871) [FM paper](pdf/FM2024.pdf)
 
 - Li, Yong, Schewe, Sven, and Tang, Qiyi. Angluin-Style Learning of Deterministic Büchi and Co-Büchi Automata. In IJCAI 2024
 [paper](pdf/IJCAI24.pdf)
