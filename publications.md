@@ -10,7 +10,7 @@ DFA Conversions. In FMCAD 2024
 . In FM 2024 [paper](https://arxiv.org/abs/2405.18871) [FM paper](pdf/FM2024.pdf)
 
 - Li, Yong, Schewe, Sven, and Tang, Qiyi. Angluin-Style Learning of Deterministic Büchi and Co-Büchi Automata. In IJCAI 2024
-[paper](pdf/IJCAI24.pdf)
+[paper](pdf/IJCAI24.pdf) [slides](pdf/IJCAI24.pptx)
 
 ### 2023
 
