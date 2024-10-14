@@ -5,8 +5,9 @@
 </div>
 
 
-I am a <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/">Marie Skłodowska-Curie Research Fellow</a> at <a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science, University of Liverpool</a>.
-I am also an Associate Research Professor within the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://lcs.ios.ac.cn/"> SKLCS</a>.  
+I am an Associate Research Professor within the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://lcs.ios.ac.cn/"> SKLCS</a>.
+I was a <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/">Marie Skłodowska-Curie Research Fellow</a> at <a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science, University of Liverpool</a>.
+Prior to this, I was a Research Assistant within the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://lcs.ios.ac.cn/"> SKLCS</a>.
 
 I received my Ph.D. degree at <a href="http://lcs.ios.ac.cn/">State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences</a> and <a href="https://english.ucas.ac.cn">University of Chinese Academy of Sciences</a>, advised by <a href="https://iscasmc.ios.ac.cn/?page_id=148">Prof. Lijun Zhang</a>.
 
@@ -24,9 +25,9 @@ Quick links to find me:
 + <a href="https://github.com/liyong31">Github</a>;
 + <a href="https://dblp.org/pid/93/2334-31.html">DBLP</a>.
 
-<p>My contact address: Office 2.21, Ashton Building, Ashton St, Liverpool L69 3BX, UK</p>
+<p>My contact address: Office 218, Building 5, Software Park, South Fourth St, Zhong Guan Cun, Haidian District, Beijing, PRC</p>
 
-**Email**: liyong AT liverpool DOT ac DOT uk or liyong AT ios DOT ac DOT cn
+**Email**: liyong AT ios DOT ac DOT cn
 
 <br><br>
 [CV](./pdf/cv.pdf) | [Experience](#work-experience) | [Education](#education)
@@ -35,11 +36,11 @@ Quick links to find me:
 ---
 ## Work Experience
 
-Marie Skłodowska-Curie Research Fellow, Oct. 2022 - present <br/>
-<a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science, University of Liverpool</a>.
-
 Associate Research Professor, Oct. 2022 - present <br/>
 <a href="http://lcs.ios.ac.cn/">State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences</a>.
+
+Marie Skłodowska-Curie Research Fellow, Oct. 2022 - Oct. 2024 <br/>
+<a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science, University of Liverpool</a>.
 
 Research Assistant, April 2020 - Oct. 2022 <br/>
 <a href="http://lcs.ios.ac.cn/">State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences</a>.
