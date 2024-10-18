@@ -4,7 +4,7 @@ I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the f
 ### 2024
 
 - Bansal, Suguman, Kankariya, Yash, and Li, Yong. DAG-Based Compositional Approaches for LTLf to
-DFA Conversions. In FMCAD 2024 [paper](https://repositum.tuwien.at/handle/20.500.12708/200795) [tool](https://github.com/suguman-lab/lisa2)
+DFA Conversions. In FMCAD 2024 [paper](https://repositum.tuwien.at/handle/20.500.12708/200795) [tool](https://github.com/suguman-lab/lisa2) [slides](pdf/FMCAD24.pptx)
 
 - Dell'Erba, Daniele, Li, Yong, and Schewe, Sven. DFAMiner: Mining minimal separating DFAs from labelled samples
 . In FM 2024 [paper](https://arxiv.org/abs/2405.18871) [FM paper](pdf/FM2024.pdf) [tool](https://github.com/liyong31/DFAMiner) [slides](pdf/FM24.pptx)

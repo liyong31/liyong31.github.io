@@ -18,7 +18,7 @@ My main interests are the following:
 
 + Verification [[TIME16](https://arxiv.org/pdf/1606.08116v2), [PLDI18](https://ondrik.github.io/publications/pldi18-semidet-buchi-compl.pdf), [TCS](https://www.sciencedirect.com/science/article/pii/S030439752200425X), [SEFM22](https://link.springer.com/chapter/10.1007/978-3-031-17108-6_20), [ATVA23a](./pdf/ATVA2023a.pdf)]
 
-+ Synthesis [[AAAI20](https://ojs.aaai.org/index.php/AAAI/article/view/6528), [IJCAI21](https://www.ijcai.org/proceedings/2021/570), [VSTTE22](https://link.springer.com/chapter/10.1007/978-3-031-25803-9_1)]
++ Synthesis [[AAAI20](https://ojs.aaai.org/index.php/AAAI/article/view/6528), [IJCAI21](https://www.ijcai.org/proceedings/2021/570), [VSTTE22](https://link.springer.com/chapter/10.1007/978-3-031-25803-9_1), [FMCAD24](https://repositum.tuwien.at/handle/20.500.12708/200795)]
 
 
 Quick links to find me:
