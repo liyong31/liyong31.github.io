@@ -68,6 +68,14 @@ Marie Curie Research Fellow 2022
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
+**April 2, 2025**
+Our paper titled "Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata" has been accepted to CAV'25.
+This is joint work with Soumyajit Paul, Sven Schewe and Qiyi Tang. 
+
+**Jan 25, 2025**
+Our paper titled "Planning with Linear Temporal Logic Specifications: Handling Quantifiable and Unquantifiable Uncertainty" has been accepted to ICRA'25.
+This is joint work with Pian Yu, Dave Parker and Marta Kwiatkowska. 
+
 **July 16, 2024**
 Our FM paper has been awarded *Available* and *Reusable* badges. Check out our [artifact](https://zenodo.org/records/12528885) and [paper](pdf/FM2024.pdf).  
 
@@ -79,16 +87,16 @@ This is joint work with [Suguman Bansal](https://suguman.github.io/) and her und
 Our paper titled "DFAMiner: Mining minimal separating DFAs from labelled samples" has been accepted to FM'24.
 This is joint work with [Daniele Dell'Erba](https://cgi.csc.liv.ac.uk/~dde/) and [Sven Schewe](https://cgi.csc.liv.ac.uk/~sven/).
 
-**April 17, 2024**
-Our paper titled "Angluin-Style Learning of Deterministic Büchi and Co-Büchi Automata" has been accepted to IJCAI'24.
-This is joint work with [Sven Schewe](https://cgi.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/).
-
-**October 30, 2023**
-Our paper titled "Model Checking Strategies from Synthesis Over Finite Traces" won the Best Paper Award at ATVA'23.
-
 
 <details>
   <summary>Show More News</summary>
+
+  <p><strong>April 17, 2024</strong><br>
+Our paper titled "Angluin-Style Learning of Deterministic Büchi and Co-Büchi Automata" has been accepted to IJCAI'24.
+This is joint work with [Sven Schewe](https://cgi.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/).
+
+  <p><strong>October 30, 2023</strong><br>
+Our paper titled "Model Checking Strategies from Synthesis Over Finite Traces" won the Best Paper Award at ATVA'23.
 
   <p><strong>July 1, 2023</strong><br>
 Two papers are accepted by ATVA'23:

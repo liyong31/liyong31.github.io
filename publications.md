@@ -1,6 +1,12 @@
 ## Publications
 I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the full publication list.
 
+### 2025
+
+- Li, Yong, Paul, Soumyajit, Schewe, Sven, and Tang, Qiyi. Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata. In CAV 2025
+
+- Yu, Pian, Parker, Dave and Kwiatkowska, Marta. Planning with Linear Temporal Logic Specifications: Handling Quantifiable and Unquantifiable Uncertainty. In ICRA 2025
+
 ### 2024
 
 - Bansal, Suguman, Kankariya, Yash, and Li, Yong. DAG-Based Compositional Approaches for LTLf to
