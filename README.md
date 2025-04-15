@@ -31,7 +31,7 @@ Quick links to find me:
 
 <br><br>
 [CV](./pdf/cv.pdf) | [Experience](#work-experience) | [Education](#education)
-| [Honors](#selected-awards-and-honors)  | [News](#news) | [Publications](#publications) 
+| [Honors](#selected-awards-and-honors)  | [News](#news) | [Publications](./publications.md) 
 
 ---
 ## Work Experience
@@ -62,6 +62,16 @@ Best Paper Award at ATVA 2023 ([paper](./pdf/ATVA2023a.pdf))
 Marie Curie Research Fellow 2022
 
 
+## Services
+Co-Chair: [SYNT 2024](https://synt2024.github.io/)
+
+PC Member: [ATVA 2024](https://atva-conference.org/2024/)
+
+Reviewer: ICALP 2025, FM 2024, CAV 2024, ICALP 2024, FOSSACS 2024, CSL 2024, 
+CONCUR 2023, CAV 2023, TACAS 2022, CAV 2021,
+FOSSACS 2020, FM 2019, TASE 2019, ICECCS 2018, LMCS
+
+AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 
 
 
@@ -147,21 +157,8 @@ This is joint work with Sven Schewe and Moshe Vardi.</p>
 </details>
 
 
-
-
-## Services
-Co-Chair: [SYNT 2024](https://synt2024.github.io/)
-
-PC Member: [ATVA 2024](https://atva-conference.org/2024/)
-
-Reviewer: FM 2024, CAV 2024, ICALP 2024, FOSSACS 2024, CSL 2024, 
-CONCUR 2023, CAV 2023, TACAS 2022, CAV 2021,
-FOSSACS 2020, FM 2019, TASE 2019, ICECCS 2018, LMCS
-
-AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
-
 <!-- ## [CV](./pdf/cv.pdf) -->
-## [Publications](./publications.md)
+<!-- ## [Publications](./publications.md) -->
 <!-- Your publications content goes here -->
 
 
