@@ -68,6 +68,10 @@ Marie Curie Research Fellow 2022
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
+**April 15, 2025**
+Our paper titled "Saturation Problems for Families of Automata" has been accepted to ICALP 2025 - Track B.
+This is joint work with León Bohn, Christof Löding and Sven Schewe. 
+
 **April 2, 2025**
 Our paper titled "Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata" has been accepted to CAV'25.
 This is joint work with Soumyajit Paul, Sven Schewe and Qiyi Tang. 
