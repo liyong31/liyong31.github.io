@@ -87,14 +87,14 @@ Our FM paper has been awarded *Available* and *Reusable* badges. Check out our [
 Our paper titled "DAG-Based Compositional Approaches for LTLf to DFA Conversions" has been accepted to FMCAD'24.
 This is joint work with [Suguman Bansal](https://suguman.github.io/) and her undergraduate student Yash Kankariya.
 
-**June 11, 2024**
-Our paper titled "DFAMiner: Mining minimal separating DFAs from labelled samples" has been accepted to FM'24.
-This is joint work with [Daniele Dell'Erba](https://cgi.csc.liv.ac.uk/~dde/) and [Sven Schewe](https://cgi.csc.liv.ac.uk/~sven/).
-
 
 
 <details>
   <summary>Show More News</summary>
+
+  <p><strong>June 11, 2024</strong><br>
+  Our paper titled "DFAMiner: Mining minimal separating DFAs from labelled samples" has been accepted to FM'24.
+  This is joint work with [Daniele Dell'Erba](https://cgi.csc.liv.ac.uk/~dde/) and [Sven Schewe](https://cgi.csc.liv.ac.uk/~sven/).
 
   <p><strong>April 17, 2024</strong><br>
 Our paper titled "Angluin-Style Learning of Deterministic Büchi and Co-Büchi Automata" has been accepted to IJCAI'24.
@@ -109,7 +109,6 @@ Two papers are accepted by ATVA'23:
  "On Strategies in Synthesis Over Finite Traces" with Suguman Bansal, Lucas Martinelli Tabajara, Moshe Vardi and Andrew Wells, <br>
 
   "A novel family of finite automata for recognizing and learning omega-regular languages" with Sven Schewe and Qiyi Tang. </p>
-
 
   <!-- Remaining news items -->
   <p><strong>June 29, 2023</strong><br>
