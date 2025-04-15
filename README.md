@@ -92,6 +92,7 @@ Our paper titled "DFAMiner: Mining minimal separating DFAs from labelled samples
 This is joint work with [Daniele Dell'Erba](https://cgi.csc.liv.ac.uk/~dde/) and [Sven Schewe](https://cgi.csc.liv.ac.uk/~sven/).
 
 
+
 <details>
   <summary>Show More News</summary>
 
@@ -145,6 +146,9 @@ This is joint work with Sven Schewe and Moshe Vardi.</p>
 
   <!-- Add more news items as needed -->
 </details>
+
+
+
 
 ## Services
 Co-Chair: [SYNT 2024](https://synt2024.github.io/)
