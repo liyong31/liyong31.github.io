@@ -3,7 +3,9 @@ I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the f
 
 ### 2025
 
-- León Bohn, Yong Li, Christof Löding and Sven Schewe. Saturation Problems for Families of Automata. In ICALP 2025
+- [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), Yong Li, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Christoph Weinhuber](https://weinhuber.github.io/) and [Pian Yu](https://sites.google.com/view/pian-yu/home). Solving MDPs with LTLf+ and PPLTL+ Temporal Objectives. In IJCAI 2025
+
+- León Bohn, Yong Li, Christof Löding and Sven Schewe. Saturation Problems for Families of Automata. In ICALP 2025 - Track B
 
 - Li, Yong, Paul, Soumyajit, Schewe, Sven, and Tang, Qiyi. Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata. In CAV 2025
 

@@ -78,7 +78,7 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
-**April 15, 2025**
+**April 30, 2025**
 Our paper titled "Solving MDPs with LTLf+ and PPLTL+ Temporal Objectives" has been accepted to IJCAI 2025.
 This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Christoph Weinhuber](https://weinhuber.github.io/) and [Pian Yu](https://sites.google.com/view/pian-yu/home). 
 
