@@ -79,28 +79,31 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
 **April 15, 2025**
+Our paper titled "Solving MDPs with LTLf+ and PPLTL+ Temporal Objectives" has been accepted to IJCAI 2025.
+This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Christoph Weinhuber](https://weinhuber.github.io/) and [Pian Yu](https://sites.google.com/view/pian-yu/home). 
+
+**April 15, 2025**
 Our paper titled "Saturation Problems for Families of Automata" has been accepted to ICALP 2025 - Track B.
-This is joint work with León Bohn, Christof Löding and Sven Schewe. 
+This is joint work with [León Bohn](https://leonbohn.de/me), [Christof Löding](https://www.lics.rwth-aachen.de/cms/lics/der-lehrstuhl/team/dozierende/~ocsx/christof-loeding/?allou=1&lidx=1) and [Sven Schewe](https://www.csc.liv.ac.uk/~sven/). 
 
 **April 2, 2025**
 Our paper titled "Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata" has been accepted to CAV'25.
-This is joint work with Soumyajit Paul, Sven Schewe and Qiyi Tang. 
+This is joint work with Soumyajit Paul, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications). 
 
 **Jan 25, 2025**
 Our paper titled "Planning with Linear Temporal Logic Specifications: Handling Quantifiable and Unquantifiable Uncertainty" has been accepted to ICRA'25.
-This is joint work with Pian Yu, Dave Parker and Marta Kwiatkowska. 
+This is joint work with [Pian Yu](https://sites.google.com/view/pian-yu/home), [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html) and [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/). 
 
 **July 16, 2024**
 Our FM paper has been awarded *Available* and *Reusable* badges. Check out our [artifact](https://zenodo.org/records/12528885) and [paper](pdf/FM2024.pdf).  
 
-**July 9, 2024**
-Our paper titled "DAG-Based Compositional Approaches for LTLf to DFA Conversions" has been accepted to FMCAD'24.
-This is joint work with [Suguman Bansal](https://suguman.github.io/) and her undergraduate student Yash Kankariya.
-
-
 
 <details>
   <summary>Show More News</summary>
+<p><strong>July 9, 2024</strong><br>
+Our paper titled "DAG-Based Compositional Approaches for LTLf to DFA Conversions" has been accepted to FMCAD'24.
+This is joint work with [Suguman Bansal](https://suguman.github.io/) and her undergraduate student Yash Kankariya.
+
 
   <p><strong>June 11, 2024</strong><br>
   Our paper titled "DFAMiner: Mining minimal separating DFAs from labelled samples" has been accepted to FM'24.
