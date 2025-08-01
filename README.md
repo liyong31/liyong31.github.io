@@ -79,9 +79,11 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
 **August 1, 2025**
-Our paper titled "Efficient Learning of Weak Deterministic Büchi Automata" has been accepted to ECAI 2025.
+Paper titled "Efficient Learning of Weak Deterministic Büchi Automata" has been accepted to ECAI 2025.
 This is joint work with Mona Alluwaym, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications).
-Our paper titled "Efficient Decomposition Identification of DFAs from Examples" has been accepted to SETTA 2025.
+
+**July 31, 2025**
+Paper titled "Efficient Decomposition Identification of DFAs from Examples" has been accepted to SETTA 2025.
 This is joint work with Junjie Meng, Jie An, Andrea Turrini, Fanjiang Xu, Naijun Zhan and Miaomiao Zhang.
 
 **April 30, 2025**
