@@ -78,6 +78,12 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
+**August 1, 2025**
+Our paper titled "Efficient Learning of Weak Deterministic Büchi Automata" has been accepted to ECAI 2025.
+This is joint work with Mona Alluwaym, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications).
+Our paper titled "Efficient Decomposition Identification of DFAs from Examples" has been accepted to SETTA 2025.
+This is joint work with Junjie Meng, Jie An, Andrea Turrini, Fanjiang Xu, Naijun Zhan and Miaomiao Zhang.
+
 **April 30, 2025**
 Our paper titled "Solving MDPs with LTLf+ and PPLTL+ Temporal Objectives" has been accepted to IJCAI 2025.
 This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Christoph Weinhuber](https://weinhuber.github.io/) and [Pian Yu](https://sites.google.com/view/pian-yu/home). 
@@ -94,12 +100,13 @@ This is joint work with Soumyajit Paul, [Sven Schewe](https://www.csc.liv.ac.uk/
 Our paper titled "Planning with Linear Temporal Logic Specifications: Handling Quantifiable and Unquantifiable Uncertainty" has been accepted to ICRA'25.
 This is joint work with [Pian Yu](https://sites.google.com/view/pian-yu/home), [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html) and [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/). 
 
-**July 16, 2024**
-Our FM paper has been awarded *Available* and *Reusable* badges. Check out our [artifact](https://zenodo.org/records/12528885) and [paper](pdf/FM2024.pdf).  
+ 
 
 
 <details>
   <summary>Show More News</summary>
+<p><strong>July 16, 2024</strong><br>
+Our FM paper has been awarded *Available* and *Reusable* badges. Check out our [artifact](https://zenodo.org/records/12528885) and [paper](pdf/FM2024.pdf). 
 <p><strong>July 9, 2024</strong><br>
 Our paper titled "DAG-Based Compositional Approaches for LTLf to DFA Conversions" has been accepted to FMCAD'24.
 This is joint work with [Suguman Bansal](https://suguman.github.io/) and her undergraduate student Yash Kankariya.
