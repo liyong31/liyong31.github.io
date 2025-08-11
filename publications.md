@@ -6,11 +6,11 @@ I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the f
 
 - Junjie Meng, Jie An, Yong Li, Andrea Turrini, Fanjiang Xu, Naijun Zhan and Miaomiao Zhang. Efficient Decomposition Identification of DFAs from Examples. In SETTA 2025.
 
-- [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), Yong Li, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Christoph Weinhuber](https://weinhuber.github.io/) and [Pian Yu](https://sites.google.com/view/pian-yu/home). Solving MDPs with LTLf+ and PPLTL+ Temporal Objectives. In IJCAI 2025
+- [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), Yong Li, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Christoph Weinhuber](https://weinhuber.github.io/) and [Pian Yu](https://sites.google.com/view/pian-yu/home). Solving MDPs with LTLf+ and PPLTL+ Temporal Objectives. In IJCAI 2025 [paper](https://arxiv.org/abs/2505.17264)
 
-- León Bohn, Yong Li, Christof Löding and Sven Schewe. Saturation Problems for Families of Automata. In ICALP 2025 - Track B
+- León Bohn, Yong Li, Christof Löding and Sven Schewe. Saturation Problems for Families of Automata. In ICALP 2025 - Track B [paper](https://www.arxiv.org/abs/2506.13197)
 
-- Li, Yong, Paul, Soumyajit, Schewe, Sven, and Tang, Qiyi. Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata. In CAV 2025
+- Li, Yong, Paul, Soumyajit, Schewe, Sven, and Tang, Qiyi. Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata. In CAV 2025 [paper](pdf/CAV25.pdf)
 
 - Yu, Pian, Parker, Dave and Kwiatkowska, Marta. Planning with Linear Temporal Logic Specifications: Handling Quantifiable and Unquantifiable Uncertainty. In ICRA 2025
 
