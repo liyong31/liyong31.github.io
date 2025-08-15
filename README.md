@@ -63,7 +63,7 @@ Marie Curie Research Fellow 2022
 
 
 ## Services
-Co-Chair: [SYNT 2024](https://synt2024.github.io/)
+Co-Chair: [VMCAI 2026-AE](https://conf.researchr.org/home/VMCAI-2026), [SYNT 2024](https://synt2024.github.io/)
 
 PC Member: [ATVA 2024](https://atva-conference.org/2024/)
 
