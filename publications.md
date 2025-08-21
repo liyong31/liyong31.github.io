@@ -2,7 +2,7 @@
 I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 ### 2025
-- Mona Alluwaym, Yong Li, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications). Efficient Learning of Weak Deterministic Büchi Automata. In ECAI 2025.
+- Mona Alluwaym, Yong Li, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications). Efficient Learning of Weak Deterministic Büchi Automata. In ECAI 2025. [paper](https://arxiv.org/abs/2508.14274) [tool](https://github.com/iscas-tis/roll-library)
 
 - Junjie Meng, Jie An, Yong Li, Andrea Turrini, Fanjiang Xu, Naijun Zhan and Miaomiao Zhang. Efficient Decomposition Identification of DFAs from Examples. In SETTA 2025.
 
