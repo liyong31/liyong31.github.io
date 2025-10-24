@@ -65,7 +65,7 @@ Marie Curie Research Fellow 2022
 ## Services
 Co-Chair: [VMCAI 2026-AE](https://conf.researchr.org/home/VMCAI-2026), [SYNT 2024](https://synt2024.github.io/)
 
-PC Member: [ATVA 2024](https://atva-conference.org/2024/)
+PC Member: [CONCUR 2026](https://confest-2026.github.io/concur/), [ATVA 2024](https://atva-conference.org/2024/)
 
 Reviewer: ICTAC 2025, ICALP 2025, FM 2024, CAV 2024, ICALP 2024, FOSSACS 2024, CSL 2024, 
 CONCUR 2023, CAV 2023, TACAS 2022, CAV 2021,
