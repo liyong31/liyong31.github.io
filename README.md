@@ -78,6 +78,10 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
+**November 6, 2025**
+Paper titled "SAT-Based Synthesis of Minimal Deterministic Real-Time Automata via 3DRTA Representation" has been accepted to VMCAI 2026.
+This is joint work with Junjie Meng, Jie An, Andrea Turrini, and Miaomiao Zhang.
+
 **August 1, 2025**
 Paper titled "Efficient Learning of Weak Deterministic Büchi Automata" has been accepted to ECAI 2025.
 This is joint work with Mona Alluwaym, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications).
@@ -94,19 +98,19 @@ This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giu
 Our paper titled "Saturation Problems for Families of Automata" has been accepted to ICALP 2025 - Track B.
 This is joint work with [León Bohn](https://leonbohn.de/me), [Christof Löding](https://www.lics.rwth-aachen.de/cms/lics/der-lehrstuhl/team/dozierende/~ocsx/christof-loeding/?allou=1&lidx=1) and [Sven Schewe](https://www.csc.liv.ac.uk/~sven/). 
 
-**April 2, 2025**
-Our paper titled "Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata" has been accepted to CAV'25.
-This is joint work with Soumyajit Paul, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications). 
-
-**Jan 25, 2025**
-Our paper titled "Planning with Linear Temporal Logic Specifications: Handling Quantifiable and Unquantifiable Uncertainty" has been accepted to ICRA'25.
-This is joint work with [Pian Yu](https://sites.google.com/view/pian-yu/home), [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html) and [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/). 
-
  
 
 
 <details>
   <summary>Show More News</summary>
+<p><strong>April 2, 2025</strong><br>
+Our paper titled "Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata" has been accepted to CAV'25.
+This is joint work with Soumyajit Paul, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications). 
+
+<p><strong>Jan 25, 2025</strong><br>
+Our paper titled "Planning with Linear Temporal Logic Specifications: Handling Quantifiable and Unquantifiable Uncertainty" has been accepted to ICRA'25.
+This is joint work with [Pian Yu](https://sites.google.com/view/pian-yu/home), [Dave Parker](https://www.cs.ox.ac.uk/people/david.parker/home.html) and [Marta Kwiatkowska](https://www.cs.ox.ac.uk/people/marta.kwiatkowska/). 
+
 <p><strong>July 16, 2024</strong><br>
 Our FM paper has been awarded *Available* and *Reusable* badges. Check out our [artifact](https://zenodo.org/records/12528885) and [paper](pdf/FM2024.pdf). 
 <p><strong>July 9, 2024</strong><br>
