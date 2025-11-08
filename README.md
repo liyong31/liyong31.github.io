@@ -80,7 +80,7 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 <!-- First 5 news items -->
 **November 8, 2025**
 Paper titled "Good-for-MDP State Reduction for Stochastic LTL Planning" has been accepted for *Oral* presentation at AAAI 2026.
-This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Christoph Weinhuber](https://weinhuber.github.io/), and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications).
+This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Qiyi Tang](https://sites.google.com/view/qiyitang/publications) and [Christoph Weinhuber](https://weinhuber.github.io/).
 
 **November 6, 2025**
 Paper titled "SAT-Based Synthesis of Minimal Deterministic Real-Time Automata via 3DRTA Representation" has been accepted to VMCAI 2026.
