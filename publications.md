@@ -1,6 +1,11 @@
 ## Publications
 I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the full publication list.
 
+### 2026
+- [Christoph Weinhuber](https://weinhuber.github.io/), [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), Yong Li, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications). Good-for-MDP State Reduction for Stochastic LTL Planning. In AAAI 2026. *Oral presentation*, [paper](http://arxiv.org/abs/2511.09073)
+
+- Junjie Meng, Jie An, Yong Li, Andrea Turrini, and Miaomiao Zhang. SAT-Based Synthesis of Minimal Deterministic Real-Time Automata via 3DRTA Representation. In  VMCAI 2026.
+
 ### 2025
 - Mona Alluwaym, Yong Li, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications). Efficient Learning of Weak Deterministic Büchi Automata. In ECAI 2025. [paper](https://arxiv.org/abs/2508.14274) [tool](https://github.com/iscas-tis/roll-library)
 
