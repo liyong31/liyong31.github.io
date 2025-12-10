@@ -12,11 +12,11 @@ Prior to this, I was a Research Assistant within the <a href="https://tis.ios.ac
 I received my Ph.D. degree at <a href="http://lcs.ios.ac.cn/">State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences</a> and <a href="https://english.ucas.ac.cn">University of Chinese Academy of Sciences</a>, advised by <a href="https://iscasmc.ios.ac.cn/?page_id=148">Prof. Lijun Zhang</a>.
 
 My main interests are the following:
-+ Automata learning [[TACAS17;I&C21](https://tis.ios.ac.cn/roll/lib/exe/fetch.php?media=iandc.pdf), [SETSS18](https://link.springer.com/chapter/10.1007/978-3-030-17601-3_2), [FM21](./pdf/FM2021.pdf), [ATVA23b](./pdf/ATVA23b.pdf), [IJCAI24](./pdf/IJCAI24.pdf), [FM24](./pdf/FM2024.pdf)]
++ Automata learning [[TACAS17;I&C21](https://tis.ios.ac.cn/roll/lib/exe/fetch.php?media=iandc.pdf), [SETSS18](https://link.springer.com/chapter/10.1007/978-3-030-17601-3_2), [FM21](./pdf/FM2021.pdf), [ATVA23b](./pdf/ATVA23b.pdf), [IJCAI24](./pdf/IJCAI24.pdf), [FM24](./pdf/FM2024.pdf), [VMCAI26](./pdf/VMCAI26.pdf)]
 
 + Automata theory [[VMCAI18](https://link.springer.com/chapter/10.1007/978-3-319-73721-8_15), [ATVA20](https://arxiv.org/abs/2007.02282), [CAV22](https://arxiv.org/abs/2206.13739), [Henzinger60](https://link.springer.com/chapter/10.1007/978-3-031-22337-2_9), [TACAS23](https://arxiv.org/abs/2301.01890), [CONCUR23;TCS24](https://arxiv.org/abs/2305.09966), [I&C23](https://arxiv.org/abs/2109.12828), [ICALP25](https://www.arxiv.org/abs/2506.13197)]
 
-+ Formal verification [[TIME16](https://arxiv.org/pdf/1606.08116v2), [PLDI18](https://ondrik.github.io/publications/pldi18-semidet-buchi-compl.pdf), [TCS](https://www.sciencedirect.com/science/article/pii/S030439752200425X), [SEFM22](https://link.springer.com/chapter/10.1007/978-3-031-17108-6_20), [ATVA23a](./pdf/ATVA2023a.pdf), [CAV25](./pdf/CAV25.pdf)]
++ Formal verification [[TIME16](https://arxiv.org/pdf/1606.08116v2), [PLDI18](https://ondrik.github.io/publications/pldi18-semidet-buchi-compl.pdf), [TCS](https://www.sciencedirect.com/science/article/pii/S030439752200425X), [SEFM22](https://link.springer.com/chapter/10.1007/978-3-031-17108-6_20), [ATVA23a](./pdf/ATVA2023a.pdf), [CAV25](./pdf/CAV25.pdf), [AAAI26](http://arxiv.org/abs/2511.09073)]
 
 + Synthesis [[AAAI20](https://ojs.aaai.org/index.php/AAAI/article/view/6528), [IJCAI21](https://www.ijcai.org/proceedings/2021/570), [VSTTE22](https://link.springer.com/chapter/10.1007/978-3-031-25803-9_1), [FMCAD24](https://repositum.tuwien.at/handle/20.500.12708/200795)]
 
@@ -54,6 +54,11 @@ Ph.D. in Computer Science, Sept. 2013 - Jan. 2020 <br/>
 B.Sc. in Computer Science, Sept. 2009 - Jun. 2013 <br/>
 <a href="http://www.njupt.edu.cn/en/">Nanjing University of Posts and Telecommunications</a> (NJUPT).
 
+## Teaching
+
+TA: Discrete Mathematics (UCAS, Spring 2025)
+
+Lecturer: Advanced Formal Methods---LTL model checking (ISCAS, Autumn 2025)
 
 ## Selected Awards and Honors
 <!-- Your honors content goes here -->
