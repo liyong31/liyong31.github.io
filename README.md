@@ -74,7 +74,7 @@ PC Member: [CONCUR 2026](https://confest-2026.github.io/concur/), [ATVA 2024](ht
 
 Reviewer: TACAS 2026, ICTAC 2025, ICALP 2025, FM 2024, CAV 2024, ICALP 2024, FOSSACS 2024, CSL 2024, 
 CONCUR 2023, CAV 2023, TACAS 2022, CAV 2021,
-FOSSACS 2020, FM 2019, TASE 2019, ICECCS 2018, LMCS
+FOSSACS 2020, FM 2019, TASE 2019, ICECCS 2018, LMCS, SCP
 
 AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 
@@ -83,6 +83,10 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
+**December 17, 2025**
+Paper titled "ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction" has been accepted to ICSE 2026.
+This is joint work with Jiayi Hu, Jingling Sun, Chong Wang, Yihao Huang, Jincao Feng, Yilongfei Xu, Kailong Wang, Weikai Miao, Jin Song Dong, Geguang Pu.
+
 **November 8, 2025**
 Paper titled "Good-for-MDP State Reduction for Stochastic LTL Planning" has been accepted for *Oral* presentation at AAAI 2026.
 This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Qiyi Tang](https://sites.google.com/view/qiyitang/publications) and [Christoph Weinhuber](https://weinhuber.github.io/). Check out our [paper](http://arxiv.org/abs/2511.09073) on Arxiv.
