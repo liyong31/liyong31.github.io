@@ -5,7 +5,7 @@
 </div>
 
 
-I am an Associate Research Professor within the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://lcs.ios.ac.cn/"> SKLCS</a>.
+I am an Associate Research Professor within the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://klss.ios.ac.cn/"> KLSS</a> (formally known as <a href="http://lcs.ios.ac.cn/"> SKLCS</a>).
 I was a <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/">Marie Skłodowska-Curie Research Fellow</a> at <a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science, University of Liverpool</a>.
 Prior to this, I was a Research Assistant within the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://lcs.ios.ac.cn/"> SKLCS</a>.
 
@@ -37,7 +37,7 @@ Quick links to find me:
 ## Work Experience
 
 Associate Research Professor, Oct. 2022 - present <br/>
-<a href="http://lcs.ios.ac.cn/">State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences</a>.
+<a href="http://klss.ios.ac.cn/">Key Laboratory of System Software (Chinese Academy of Sciences), Institute of Software, Chinese Academy of Sciences</a>.
 
 Marie Skłodowska-Curie Research Fellow, Oct. 2022 - Oct. 2024 <br/>
 <a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science, University of Liverpool</a>.
