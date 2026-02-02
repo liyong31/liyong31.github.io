@@ -83,6 +83,10 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
+**February 2, 2026**
+Paper titled "Resource-Constrained Robotic Planning in the face of Mixed Uncertainty" has been accepted to ICRA 2026.
+This is joint work with Yihao Yin, Zhiming Chi, Pian Yu, Andrea Turrini, and Lijun Zhang.
+
 **December 17, 2025**
 Paper titled "ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction" has been accepted to ICSE 2026.
 This is joint work with Jiayi Hu, Jingling Sun, Chong Wang, Yihao Huang, Jincao Feng, Yilongfei Xu, Kailong Wang, Weikai Miao, Jin Song Dong, Geguang Pu.
@@ -99,23 +103,24 @@ This is joint work with Junjie Meng, Jie An, Andrea Turrini, and Miaomiao Zhang.
 Paper titled "Efficient Learning of Weak Deterministic Büchi Automata" has been accepted to ECAI 2025.
 This is joint work with Mona Alluwaym, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications).
 
-**July 31, 2025**
-Paper titled "Efficient Decomposition Identification of DFAs from Examples" has been accepted to SETTA 2025.
-This is joint work with Junjie Meng, Jie An, Andrea Turrini, Fanjiang Xu, Naijun Zhan and Miaomiao Zhang.
-
-**April 30, 2025**
-Our paper titled "Solving MDPs with LTLf+ and PPLTL+ Temporal Objectives" has been accepted to IJCAI 2025.
-This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Christoph Weinhuber](https://weinhuber.github.io/) and [Pian Yu](https://sites.google.com/view/pian-yu/home). 
-
-**April 15, 2025**
-Our paper titled "Saturation Problems for Families of Automata" has been accepted to ICALP 2025 - Track B.
-This is joint work with [León Bohn](https://leonbohn.de/me), [Christof Löding](https://www.lics.rwth-aachen.de/cms/lics/der-lehrstuhl/team/dozierende/~ocsx/christof-loeding/?allou=1&lidx=1) and [Sven Schewe](https://www.csc.liv.ac.uk/~sven/). 
-
  
 
 
 <details>
   <summary>Show More News</summary>
+
+<p><strong>July 31, 2025</strong><br>
+Paper titled "Efficient Decomposition Identification of DFAs from Examples" has been accepted to SETTA 2025.
+This is joint work with Junjie Meng, Jie An, Andrea Turrini, Fanjiang Xu, Naijun Zhan and Miaomiao Zhang.
+
+<p><strong>April 30, 2025</strong><br>
+Our paper titled "Solving MDPs with LTLf+ and PPLTL+ Temporal Objectives" has been accepted to IJCAI 2025.
+This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Christoph Weinhuber](https://weinhuber.github.io/) and [Pian Yu](https://sites.google.com/view/pian-yu/home). 
+
+<p><strong>April 15, 2025</strong><br>
+Our paper titled "Saturation Problems for Families of Automata" has been accepted to ICALP 2025 - Track B.
+This is joint work with [León Bohn](https://leonbohn.de/me), [Christof Löding](https://www.lics.rwth-aachen.de/cms/lics/der-lehrstuhl/team/dozierende/~ocsx/christof-loeding/?allou=1&lidx=1) and [Sven Schewe](https://www.csc.liv.ac.uk/~sven/). 
+
 <p><strong>April 2, 2025</strong><br>
 Our paper titled "Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata" has been accepted to CAV'25.
 This is joint work with Soumyajit Paul, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications). 
