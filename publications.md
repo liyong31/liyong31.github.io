@@ -2,6 +2,11 @@
 I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 ### 2026
+
+- Yihao Yin, Pian Yu, Andrea Turrini, Zhiming Chi, Yong Li and Lijun Zhang. Resource-Constrained Robotic Planning in the face of Mixed Uncertainty. In ICRA 2026
+
+- Jiayi Hu, Jingling Sun, Chong Wang, Yihao Huang, Jincao Feng, Yilongfei Xu, Yong Li, Kailong Wang, Weikai Miao, Jin Song Dong, Geguang Pu. ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction. In ICSE 2026
+
 - [Christoph Weinhuber](https://weinhuber.github.io/), [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), Yong Li, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications). Good-for-MDP State Reduction for Stochastic LTL Planning. In AAAI 2026. *Oral presentation*, [paper](http://arxiv.org/abs/2511.09073)
 
 - Junjie Meng, Jie An, Yong Li, Andrea Turrini, and Miaomiao Zhang. SAT-Based Synthesis of Minimal Deterministic Real-Time Automata via 3DRTA Representation. In  VMCAI 2026.
