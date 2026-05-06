@@ -3,6 +3,13 @@ I listed here conference papers only, please refer to [CV](pdf/cv.pdf) for the f
 
 ### 2026
 
+- Yong Li,  Qiyi Tang and Di-De Yen. Hyper-Minimization for Deterministic Register Automata. In CIAA 2026.
+
+- Daniele Dell'Erba, Yong Li, Sven Schewe, Andrea Turrini: DFAMiner: An efficient tool for learning minimal separating DFAs from labelled samples. In Science of Computer Programming, 2026.
+
+
+- Ondrej Alexaj, Vojtěch Havlena, Lukáš Holı́k, Ondřej Lengál, Yong Li and Nicolas Mazzocchi. Kofola 1.0: A Modular Approach to ω-Regular Complementation and Inclusion Checking. In CAV 2026.
+
 - Yihao Yin, Pian Yu, Andrea Turrini, Zhiming Chi, Yong Li and Lijun Zhang. Resource-Constrained Robotic Planning in the face of Mixed Uncertainty. In ICRA 2026
 
 - Jiayi Hu, Jingling Sun, Chong Wang, Yihao Huang, Jincao Feng, Yilongfei Xu, Yong Li, Kailong Wang, Weikai Miao, Jin Song Dong, Geguang Pu. ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction. In ICSE 2026

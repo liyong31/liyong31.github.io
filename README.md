@@ -83,6 +83,15 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 ## News
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
+
+**May 6, 2026**
+Our paper, "Hyper-Minimization for Deterministic Register Automata", has been accepted to CIAA 2026. This is joint work with Qiyi Tang and Di-De Yen.
+
+Our paper, "DFAMiner: An Efficient Tool for Learning Minimal Separating DFAs from Labelled Samples", has been accepted to the Science of Computer Programming journal, as part of the special issue for high-quality artifacts from FM 2024. This is joint work with Daniele Dell'Erba, Sven Schewe, and Andrea Turrini.
+
+Our paper, "Kofola 1.0: A Modular Approach to ω-Regular Complementation and Inclusion Checking", has been accepted to CAV 2026.
+This is joint work with Ondrej Alexaj, Vojtěch Havlena, Lukáš Holı́k, Ondřej Lengál, and Nicolas Mazzocchi.
+
 **February 2, 2026**
 Paper titled "Resource-Constrained Robotic Planning in the face of Mixed Uncertainty" has been accepted to ICRA 2026.
 This is joint work with Yihao Yin, Zhiming Chi, Pian Yu, Andrea Turrini, and Lijun Zhang.
@@ -99,15 +108,14 @@ This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giu
 Paper titled "SAT-Based Synthesis of Minimal Deterministic Real-Time Automata via 3DRTA Representation" has been accepted to VMCAI 2026.
 This is joint work with Junjie Meng, Jie An, Andrea Turrini, and Miaomiao Zhang.
 
-**August 1, 2025**
-Paper titled "Efficient Learning of Weak Deterministic Büchi Automata" has been accepted to ECAI 2025.
-This is joint work with Mona Alluwaym, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications).
-
- 
 
 
 <details>
   <summary>Show More News</summary>
+
+<p><strong>August 1, 2025</strong><br>
+Paper titled "Efficient Learning of Weak Deterministic Büchi Automata" has been accepted to ECAI 2025.
+This is joint work with Mona Alluwaym, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications).
 
 <p><strong>July 31, 2025</strong><br>
 Paper titled "Efficient Decomposition Identification of DFAs from Examples" has been accepted to SETTA 2025.
