@@ -3,6 +3,8 @@ Please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 ### 2026
 
+- Ondrej Alexaj, Vojtěch Havlena, Ondřej Lengál, Yong Li, Nicolas Mazzocchi: Complementing Emerson-Lei Elevator Automata. In CONCUR'26 [paper](http://arxiv.org/abs/2606.26768)
+
 - Yong Li,  Qiyi Tang and Di-De Yen. Hyper-Minimization for Deterministic Register Automata. In CIAA 2026.
 
 - Daniele Dell'Erba, Yong Li, Sven Schewe, Andrea Turrini: DFAMiner: An efficient tool for learning minimal separating DFAs from labelled samples. In Science of Computer Programming, 2026.

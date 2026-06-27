@@ -84,6 +84,9 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
 
+**June 26, 2026**
+Our paper, "Complementing Emerson-Lei Elevator Automata", has been accepted to CONCUR 2026. This is joint work with Ondrej Alexaj, Vojtěch Havlena, Ondřej Lengál, Nicolas Mazzocchi.
+
 **May 6, 2026**
 Our paper, "Hyper-Minimization for Deterministic Register Automata", has been accepted to CIAA 2026. This is joint work with Qiyi Tang and Di-De Yen.
 
@@ -104,14 +107,16 @@ This is joint work with Jiayi Hu, Jingling Sun, Chong Wang, Yihao Huang, Jincao 
 Paper titled "Good-for-MDP State Reduction for Stochastic LTL Planning" has been accepted for *Oral* presentation at AAAI 2026.
 This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Qiyi Tang](https://sites.google.com/view/qiyitang/publications) and [Christoph Weinhuber](https://weinhuber.github.io/). Check out our [paper](http://arxiv.org/abs/2511.09073) on Arxiv.
 
-**November 6, 2025**
-Paper titled "SAT-Based Synthesis of Minimal Deterministic Real-Time Automata via 3DRTA Representation" has been accepted to VMCAI 2026.
-This is joint work with Junjie Meng, Jie An, Andrea Turrini, and Miaomiao Zhang.
 
 
 
 <details>
   <summary>Show More News</summary>
+
+<p><strong>November 6, 2025</strong><br>
+Paper titled "SAT-Based Synthesis of Minimal Deterministic Real-Time Automata via 3DRTA Representation" has been accepted to VMCAI 2026.
+This is joint work with Junjie Meng, Jie An, Andrea Turrini, and Miaomiao Zhang.
+
 
 <p><strong>August 1, 2025</strong><br>
 Paper titled "Efficient Learning of Weak Deterministic Büchi Automata" has been accepted to ECAI 2025.
