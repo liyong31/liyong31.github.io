@@ -84,6 +84,14 @@ AE PC Member:  iFM 2024, iFM 2023, TACAS 2022, TACAS 2021, TACAS 2019
 <!-- Your news content goes here -->
 <!-- First 5 news items -->
 
+**August 11, 2026**
+Paper titled "Learning Canonical Register Automata over Ordered Data Domains" has been accepted at ICTAC 2026.
+This is joint work with Qiyi Tang and Di-De Yen.
+
+**July 25, 2026**
+Paper titled "Synthesizing Probabilistic Saturating Counters with  Differentially Private Formal Guarantees" has been accepted to ATVA 2026.
+Congratulations to Zhiming Chi and all co-authors.
+
 **June 26, 2026**
 Our paper, "Complementing Emerson-Lei Elevator Automata", has been accepted to CONCUR 2026. This is joint work with Ondrej Alexaj, Vojtěch Havlena, Ondřej Lengál, Nicolas Mazzocchi.
 
@@ -97,21 +105,23 @@ This is joint work with Ondrej Alexaj, Vojtěch Havlena, Lukáš Holı́k, Ondř
 
 **February 2, 2026**
 Paper titled "Resource-Constrained Robotic Planning in the face of Mixed Uncertainty" has been accepted to ICRA 2026.
-This is joint work with Yihao Yin, Zhiming Chi, Pian Yu, Andrea Turrini, and Lijun Zhang.
+Congratulations to Yihao Yin and all co-authors.
 
-**December 17, 2025**
-Paper titled "ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction" has been accepted to ICSE 2026.
-This is joint work with Jiayi Hu, Jingling Sun, Chong Wang, Yihao Huang, Jincao Feng, Yilongfei Xu, Kailong Wang, Weikai Miao, Jin Song Dong, Geguang Pu.
 
-**November 8, 2025**
-Paper titled "Good-for-MDP State Reduction for Stochastic LTL Planning" has been accepted for *Oral* presentation at AAAI 2026.
-This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Qiyi Tang](https://sites.google.com/view/qiyitang/publications) and [Christoph Weinhuber](https://weinhuber.github.io/). Check out our [paper](http://arxiv.org/abs/2511.09073) on Arxiv.
 
 
 
 
 <details>
   <summary>Show More News</summary>
+
+<p><strong>December 17, 2025</strong><br>
+Paper titled "ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction" has been accepted to ICSE 2026.
+This is joint work with Jiayi Hu, Jingling Sun, Chong Wang, Yihao Huang, Jincao Feng, Yilongfei Xu, Kailong Wang, Weikai Miao, Jin Song Dong, Geguang Pu.
+
+<p><strong>November 8, 2025</strong><br>
+Paper titled "Good-for-MDP State Reduction for Stochastic LTL Planning" has been accepted for *Oral* presentation at AAAI 2026.
+This is joint work with [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Qiyi Tang](https://sites.google.com/view/qiyitang/publications) and [Christoph Weinhuber](https://weinhuber.github.io/). Check out our [paper](http://arxiv.org/abs/2511.09073) on Arxiv.
 
 <p><strong>November 6, 2025</strong><br>
 Paper titled "SAT-Based Synthesis of Minimal Deterministic Real-Time Automata via 3DRTA Representation" has been accepted to VMCAI 2026.

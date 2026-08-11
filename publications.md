@@ -2,6 +2,9 @@
 Please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 ### 2026
+- Di-De Yen, Qiyi Tang and Yong Li. Learning Canonical Register Automata over Ordered Data Domains. In ICTAC 2026.
+
+- Zhiming Chi, Lutan Zhao, Depeng Liu, Yong Li, Pengfei Yang, Bow-Yaw Wang, Rui Hou, Cheng-Chao Huang, Andrea Turrini, Lijun Zhang and Naijun Zhan. Synthesizing Probabilistic Saturating Counters with  Differentially Private Formal Guarantees. In ATVA 2026.
 
 - Ondrej Alexaj, Vojtěch Havlena, Ondřej Lengál, Yong Li, Nicolas Mazzocchi: Complementing Emerson-Lei Elevator Automata. In CONCUR'26 [paper](http://arxiv.org/abs/2606.26768)
 
