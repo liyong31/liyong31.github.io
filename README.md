@@ -9,7 +9,7 @@ I am an Associate Research Professor in the <a href="https://tis.ios.ac.cn/">TIS
 
 Previously, I was a <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/">Marie Skłodowska-Curie Research Fellow</a> in the <a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science at the University of Liverpool</a>, where I worked with <a href="https://www.csc.liv.ac.uk/~sven/">Sven Schewe</a>.
 
-Before that, I was a Research Assistant in the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://lcs.ios.ac.cn/">SKLCS</a>, where I worked with <a href="https://iscasmc.ios.ac.cn/?page_id=148">Prof. Lijun Zhang</a> and collaborated remotely with <a href="https://www.cs.rice.edu/~vardi/">Moshe Vardi</a>.
+Before that, I was a Research Assistant in the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://lcs.ios.ac.cn/">SKLCS</a>, where I worked with <a href="https://iscasmc.ios.ac.cn/?page_id=148">Lijun Zhang</a> and collaborated remotely with <a href="https://www.cs.rice.edu/~vardi/">Moshe Vardi</a>.
 
 
 
