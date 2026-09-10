@@ -5,9 +5,13 @@
 </div>
 
 
-I am an Associate Research Professor within the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://klss.ios.ac.cn/"> KLSS</a> (formally known as <a href="http://lcs.ios.ac.cn/"> SKLCS</a>).
-I was a <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/">Marie Skłodowska-Curie Research Fellow</a> at <a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science, University of Liverpool</a>.
-Prior to this, I was a Research Assistant within the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://lcs.ios.ac.cn/"> SKLCS</a>.
+I am an Associate Research Professor in the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://klss.ios.ac.cn/">KLSS</a> (formerly known as <a href="http://lcs.ios.ac.cn/">SKLCS</a>).
+
+Previously, I was a <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/">Marie Skłodowska-Curie Research Fellow</a> in the <a href="https://www.liverpool.ac.uk/computer-science/">Department of Computer Science at the University of Liverpool</a>, where I worked with <a href="https://www.csc.liv.ac.uk/~sven/">Sven Schewe</a>.
+
+Before that, I was a Research Assistant in the <a href="https://tis.ios.ac.cn/">TIS group</a> at <a href="http://lcs.ios.ac.cn/">SKLCS</a>, where I worked with <a href="https://iscasmc.ios.ac.cn/?page_id=148">Prof. Lijun Zhang</a> and collaborated remotely with <a href="https://www.cs.rice.edu/~vardi/">Moshe Vardi</a>.
+
+
 
 I received my Ph.D. degree at <a href="http://lcs.ios.ac.cn/">State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences</a> and <a href="https://english.ucas.ac.cn">University of Chinese Academy of Sciences</a>, advised by <a href="https://iscasmc.ios.ac.cn/?page_id=148">Prof. Lijun Zhang</a>.
 
