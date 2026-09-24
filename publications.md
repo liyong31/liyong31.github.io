@@ -2,20 +2,20 @@
 Please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 ### 2026
-- Di-De Yen, Qiyi Tang and Yong Li. Learning Canonical Register Automata over Ordered Data Domains. In ICTAC 2026.
+- Di-De Yen, Qiyi Tang and Yong Li. Learning Canonical Register Automata over Ordered Data Domains. In ICTAC 2026. [arXiv](https://arxiv.org/abs/2608.18765)
 
-- Zhiming Chi, Lutan Zhao, Depeng Liu, Yong Li, Pengfei Yang, Bow-Yaw Wang, Rui Hou, Cheng-Chao Huang, Andrea Turrini, Lijun Zhang and Naijun Zhan. Synthesizing Probabilistic Saturating Counters with  Differentially Private Formal Guarantees. In ATVA 2026.
+- Zhiming Chi, Lutan Zhao, Depeng Liu, Yong Li, Pengfei Yang, Bow-Yaw Wang, Rui Hou, Cheng-Chao Huang, Andrea Turrini, Lijun Zhang and Naijun Zhan. Synthesizing Probabilistic Saturating Counters with  Differentially Private Formal Guarantees. In ATVA 2026. [arXiv](https://arxiv.org/abs/2608.10521)
 
 - Ondrej Alexaj, Vojtěch Havlena, Ondřej Lengál, Yong Li, Nicolas Mazzocchi: Complementing Emerson-Lei Elevator Automata. In CONCUR'26 [paper](http://arxiv.org/abs/2606.26768)
 
-- Yong Li,  Qiyi Tang and Di-De Yen. Hyper-Minimization for Deterministic Register Automata. In CIAA 2026.
+- Yong Li,  Qiyi Tang and Di-De Yen. Hyper-Minimization for Deterministic Register Automata. In CIAA 2026. [arXiv](https://arxiv.org/abs/2605.03535)
 
 - Daniele Dell'Erba, Yong Li, Sven Schewe, Andrea Turrini: DFAMiner: An efficient tool for learning minimal separating DFAs from labelled samples. In Science of Computer Programming, 2026.
 
 
-- Ondrej Alexaj, Vojtěch Havlena, Lukáš Holı́k, Ondřej Lengál, Yong Li and Nicolas Mazzocchi. Kofola 1.0: A Modular Approach to ω-Regular Complementation and Inclusion Checking. In CAV 2026.
+- Ondrej Alexaj, Vojtěch Havlena, Lukáš Holı́k, Ondřej Lengál, Yong Li and Nicolas Mazzocchi. Kofola 1.0: A Modular Approach to ω-Regular Complementation and Inclusion Checking. In CAV 2026. [arXiv](https://arxiv.org/abs/2605.15390)
 
-- Yihao Yin, Pian Yu, Andrea Turrini, Zhiming Chi, Yong Li and Lijun Zhang. Resource-Constrained Robotic Planning in the face of Mixed Uncertainty. In ICRA 2026
+- Yihao Yin, Pian Yu, Andrea Turrini, Zhiming Chi, Yong Li and Lijun Zhang. Resource-Constrained Robotic Planning in the face of Mixed Uncertainty. In ICRA 2026 [arXiv](https://arxiv.org/abs/2605.05797)
 
 - Jiayi Hu, Jingling Sun, Chong Wang, Yihao Huang, Jincao Feng, Yilongfei Xu, Yong Li, Kailong Wang, Weikai Miao, Jin Song Dong, Geguang Pu. ADARULE: LLM-Driven Natural Language to LTL Conversion via Pattern-Adaptive Rule Induction. In ICSE 2026
 
@@ -26,7 +26,7 @@ Please refer to [CV](pdf/cv.pdf) for the full publication list.
 ### 2025
 - Mona Alluwaym, Yong Li, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/) and [Qiyi Tang](https://sites.google.com/view/qiyitang/publications). Efficient Learning of Weak Deterministic Büchi Automata. In ECAI 2025. [paper](https://arxiv.org/abs/2508.14274) [tool](https://github.com/iscas-tis/roll-library)
 
-- Junjie Meng, Jie An, Yong Li, Andrea Turrini, Fanjiang Xu, Naijun Zhan and Miaomiao Zhang. Efficient Decomposition Identification of DFAs from Examples. In SETTA 2025.
+- Junjie Meng, Jie An, Yong Li, Andrea Turrini, Fanjiang Xu, Naijun Zhan and Miaomiao Zhang. Efficient Decomposition Identification of DFAs from Examples. In SETTA 2025. [arXiv](https://arxiv.org/abs/2509.24347)
 
 - [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), Yong Li, [Sven Schewe](https://www.csc.liv.ac.uk/~sven/), [Christoph Weinhuber](https://weinhuber.github.io/) and [Pian Yu](https://sites.google.com/view/pian-yu/home). Solving MDPs with LTLf+ and PPLTL+ Temporal Objectives. In IJCAI 2025 [paper](https://arxiv.org/abs/2505.17264)
 
@@ -34,7 +34,7 @@ Please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 - Li, Yong, Paul, Soumyajit, Schewe, Sven, and Tang, Qiyi. Accelerating Markov Chain Model Checking: Good-for-Games Meets Unambiguous Automata. In CAV 2025 [paper](pdf/CAV25.pdf)
 
-- Yu, Pian, Parker, Dave and Kwiatkowska, Marta. Planning with Linear Temporal Logic Specifications: Handling Quantifiable and Unquantifiable Uncertainty. In ICRA 2025
+- Yu, Pian, Parker, Dave and Kwiatkowska, Marta. Planning with Linear Temporal Logic Specifications: Handling Quantifiable and Unquantifiable Uncertainty. In ICRA 2025 [arXiv](https://arxiv.org/abs/2502.19603)
 
 ### 2024
 
@@ -53,9 +53,9 @@ DFA Conversions. In FMCAD 2024 [paper](https://repositum.tuwien.at/handle/20.500
 [paper](pdf/LimitFDFA.pdf) [slides](pdf/ATVA23b.pdf)
 
 - Bansal, Suguman, Yong Li, , Tabajara, Lucas Martinelli, Vardi, Moshe Y., and Wells, Andrew M.
-Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [paper](pdf/ATVA2023a.pdf) [**Best Paper Award**](pdf/bestpaperATVA.pdf)
+Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [arXiv](https://arxiv.org/abs/2305.08319) [paper](pdf/ATVA2023a.pdf) [**Best Paper Award**](pdf/bestpaperATVA.pdf)
 
-- Yong Li, Schewe, Sven, and Vardi, Moshe Y. Singly Exponential Translation of Alternating Weak Büchi Automata to Unambiguous Büchi Automata. In CONCUR 2023. [paper](pdf/CONCUR2023.pdf)
+- Yong Li, Schewe, Sven, and Vardi, Moshe Y. Singly Exponential Translation of Alternating Weak Büchi Automata to Unambiguous Büchi Automata. In CONCUR 2023. [arXiv](https://arxiv.org/abs/2305.09966) [paper](pdf/CONCUR2023.pdf)
 
 - Havlena, Vojtech, Lengál, Ondrej, Yong Li, , Smahlı́ková, Barbora, and Turrini, Andrea. Modular Mix-and-Match Complementation of Büchi Automata. In TACAS 2023. [paper](pdf/TACAS23.pdf)
 
@@ -64,11 +64,11 @@ Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [paper
 
 - Bansal, Suguman, Giacomo, Giuseppe De, Stasio, Antonio Di, Yong Li, , Vardi, Moshe Y., and Zhu, Shufang. Compositional Safety LTL Synthesis. In VSTTE 2022. [paper](pdf/VSTTE22.pdf)
 
-- Yong Li, , Turrini, Andrea, Feng, Weizhi, Vardi, Moshe Y., and Zhang, Lijun. Divide-and-Conquer Determinization of Büchi Automata Based on SCC Decomposition. In CAV 2022. [paper](pdf/CAV2022.pdf) [slides](pdf/CAV-talk.pdf)
+- Yong Li, , Turrini, Andrea, Feng, Weizhi, Vardi, Moshe Y., and Zhang, Lijun. Divide-and-Conquer Determinization of Büchi Automata Based on SCC Decomposition. In CAV 2022. [arXiv](https://arxiv.org/abs/2206.13739) [paper](pdf/CAV2022.pdf) [slides](pdf/CAV-talk.pdf)
 
 ### 2021
 
-- Yong Li, , Tsay, Yih-Kuen, Turrini, Andrea, Vardi, Moshe Y., and Zhang, Lijun. Congruence Relations for Büchi Automata. In FM 2021. [paper](pdf/FM2021.pdf) [slides](pdf/FM2021.pptx)
+- Yong Li, , Tsay, Yih-Kuen, Turrini, Andrea, Vardi, Moshe Y., and Zhang, Lijun. Congruence Relations for Büchi Automata. In FM 2021. [arXiv](https://arxiv.org/abs/2104.03555) [paper](pdf/FM2021.pdf) [slides](pdf/FM2021.pptx)
 
 - Yong Li, , Turrini, Andrea, Vardi, Moshe Y., and Zhang, Lijun
 . Synthesizing Good-Enough Strategies for LTLf Specifications. In IJCAI 2021. [paper](pdf/IJCAI21-LiTVZ.pdf) [slides](pdf/IJCAI21.pptx)
@@ -81,9 +81,9 @@ Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [paper
 . SVMRanker: A General Termination Analysis Framework of Loop Programs via SVM. In FSE 2020 (tool demo).
 
 - Yong Li, , Vardi, Moshe Y., and Zhang, Lijun
-. On the Power of Unambiguity in Büchi Complementation. In GandALF 2020.
+. On the Power of Unambiguity in Büchi Complementation. In GandALF 2020. [arXiv](https://arxiv.org/abs/2005.09125)
 
-- Yong Li, , Turrini, Andrea, Sun, Xuechao, and Zhang, Lijun. Proving Non-Inclusion of Büchi Automata based on Monte Carlo Sampling. In ATVA 2020.
+- Yong Li, , Turrini, Andrea, Sun, Xuechao, and Zhang, Lijun. Proving Non-Inclusion of Büchi Automata based on Monte Carlo Sampling. In ATVA 2020. [arXiv](https://arxiv.org/abs/2007.02282)
 
 - Bansal, Suguman, Yong Li, , Tabajara, Lucas M., and Vardi, Moshe Y.
 . Hybrid Compositional Reasoning for Reactive Synthesis from Finite-Horizon Specifications. In AAAI 2020.
@@ -113,10 +113,10 @@ In TACAS 2018.
 ### 2016
 
 - Yong Li, Liu, Wanwei, Turrini, Andrea, Hahn, Ernst Moritz, and Zhang, Lijun
-. An Efficient Synthesis Algorithm for Parametric Markov Chains Against Linear Time Properties. In SETTA 2016.
+. An Efficient Synthesis Algorithm for Parametric Markov Chains Against Linear Time Properties. In SETTA 2016. [arXiv](https://arxiv.org/abs/1605.04400)
 
 - Yong Li, , Song, Lei, Feng, Yuan, and Zhang, Lijun
-. Verify LTL with Fairness Assumptions Efficiently. In TIME 2016.
+. Verify LTL with Fairness Assumptions Efficiently. In TIME 2016. [arXiv](https://arxiv.org/abs/1606.08116)
 
 ### 2015
 
