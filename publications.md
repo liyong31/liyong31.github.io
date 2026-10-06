@@ -107,9 +107,6 @@ Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [arXiv
 . Hybrid Compositional Reasoning for Reactive Synthesis from Finite-Horizon Specifications. In AAAI 2020.
 
 ### 2019
-- Long Zhang, Xuechao Sun, Yong Li and Zhenyu Zhang. A Noise-Sensitivity-Analysis-Based Test Prioritization Technique for Deep Neural Networks. CoRR abs/1901.00054, 2019. [arXiv](https://arxiv.org/abs/1901.00054)
-
-
 - Li, Yi, Sun, Xuechao, Yong Li, , Turrini, Andrea, and Zhang, Lijun
 . Synthesizing Nested Ranking Functions for Loop Programs via SVM. In ICFEM 2019.
 
