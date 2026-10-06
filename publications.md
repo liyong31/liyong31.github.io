@@ -2,6 +2,8 @@
 Please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 ### 2026
+- Yong Li, Soumyajit Paul, Sven Schewe and Qiyi Tang. Word Automata with Limited Nondeterminism. In CONCUR 2026. (Invited paper) [paper](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2026.3)
+
 - Di-De Yen, Qiyi Tang and Yong Li. Learning Canonical Register Automata over Ordered Data Domains. In ICTAC 2026. [arXiv](https://arxiv.org/abs/2608.18765)
 
 - Zhiming Chi, Lutan Zhao, Depeng Liu, Yong Li, Pengfei Yang, Bow-Yaw Wang, Rui Hou, Cheng-Chao Huang, Andrea Turrini, Lijun Zhang and Naijun Zhan. Synthesizing Probabilistic Saturating Counters with  Differentially Private Formal Guarantees. In ATVA 2026. [arXiv](https://arxiv.org/abs/2608.10521)
