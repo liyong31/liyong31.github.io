@@ -39,6 +39,8 @@ Please refer to [CV](pdf/cv.pdf) for the full publication list.
 - Yu, Pian, Parker, Dave and Kwiatkowska, Marta. Planning with Linear Temporal Logic Specifications: Handling Quantifiable and Unquantifiable Uncertainty. In ICRA 2025 [arXiv](https://arxiv.org/abs/2502.19603)
 
 ### 2024
+- Yong Li, Sven Schewe and Moshe Y. Vardi. Singly Exponential Translation of Alternating Weak Büchi Automata to Unambiguous Büchi Automata. In Theoretical Computer Science 1006: 114650, 2024. [paper](https://doi.org/10.1016/j.tcs.2024.114650)
+
 
 - Bansal, Suguman, Kankariya, Yash, and Li, Yong. DAG-Based Compositional Approaches for LTLf to
 DFA Conversions. In FMCAD 2024 [paper](https://repositum.tuwien.at/handle/20.500.12708/200795) [tool](https://github.com/suguman-lab/lisa2) [slides](pdf/FMCAD24.pptx)
@@ -81,6 +83,8 @@ Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [arXiv
 - Yong Li, , Turrini, Andrea, Feng, Weizhi, Vardi, Moshe Y., and Zhang, Lijun. Divide-and-Conquer Determinization of Büchi Automata Based on SCC Decomposition. In CAV 2022. [arXiv](https://arxiv.org/abs/2206.13739) [paper](pdf/CAV2022.pdf) [slides](pdf/CAV-talk.pdf)
 
 ### 2021
+- Yong Li, Yu-Fang Chen, Lijun Zhang and Depeng Liu. A Novel Learning Algorithm for Büchi Automata Based on Family of DFAs and Classification Trees. In Information and Computation 281: 104678, 2021. [paper](https://doi.org/10.1016/j.ic.2020.104678)
+
 
 - Yong Li, , Tsay, Yih-Kuen, Turrini, Andrea, Vardi, Moshe Y., and Zhang, Lijun. Congruence Relations for Büchi Automata. In FM 2021. [arXiv](https://arxiv.org/abs/2104.03555) [paper](pdf/FM2021.pdf) [slides](pdf/FM2021.pptx)
 
