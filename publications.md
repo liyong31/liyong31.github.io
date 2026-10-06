@@ -50,6 +50,10 @@ DFA Conversions. In FMCAD 2024 [paper](https://repositum.tuwien.at/handle/20.500
 [paper](pdf/IJCAI24.pdf) [tool](https://github.com/iscas-tis/roll-library) [slides](pdf/IJCAI24.pptx)
 
 ### 2023
+- Weizhi Feng, Yong Li, Andrea Turrini, Moshe Y. Vardi and Lijun Zhang. On the Power of Finite Ambiguity in Büchi Complementation. In Information and Computation 292: 105032, 2023. [paper](https://doi.org/10.1016/j.ic.2023.105032)
+
+- Jianling Fu, Cheng-Chao Huang, Yong Li, Jingyi Mei, Ming Xu and Lijun Zhang. Quantitative Controller Synthesis for Consumption Markov Decision Processes. In Information Processing Letters 180: 106342, 2023. [paper](https://doi.org/10.1016/j.ipl.2022.106342)
+
 
 - Li, Yong, Schewe, Sven, and Tang, Qiyi. A novel family of finite automata for recognizing and learning omega-regular languages. In ATVA 2023
 [paper](pdf/LimitFDFA.pdf) [slides](pdf/ATVA23b.pdf)
@@ -63,6 +67,14 @@ Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [arXiv
 
 
 ### 2022
+- Shizhen Yu, Yifan Dong, Jiuyang Liu, Yong Li, Zhilin Wu, David N. Jansen and Lijun Zhang. CHA: Supporting SVA-Like Assertions in Formal Verification of Chisel Programs (Tool Paper). In SEFM 2022. [paper](https://doi.org/10.1007/978-3-031-17108-6_20)
+
+- Chen Fu, Ernst Moritz Hahn, Yong Li, Sven Schewe, Meng Sun, Andrea Turrini and Lijun Zhang. EPMC Gets Knowledge in Multi-agent Systems. In VMCAI 2022. [paper](https://doi.org/10.1007/978-3-030-94583-1_5)
+
+- Yi Li, Xie Li, Yong Li, Xuechao Sun, Andrea Turrini and Lijun Zhang. Synthesizing Ranking Functions for Loop Programs via SVM. In Theoretical Computer Science 935: 1-20, 2022. [paper](https://doi.org/10.1016/j.tcs.2022.07.002)
+
+- Moshe Y. Vardi, Seth Fogarty, Yong Li and Yih-Kuen Tsay. Towards a Grand Unification of Büchi Complementation Constructions. In Principles of Systems Design, 2022. [paper](https://doi.org/10.1007/978-3-031-22337-2_9)
+
 
 - Bansal, Suguman, Giacomo, Giuseppe De, Stasio, Antonio Di, Yong Li, , Vardi, Moshe Y., and Zhu, Shufang. Compositional Safety LTL Synthesis. In VSTTE 2022. [paper](pdf/VSTTE22.pdf)
 
@@ -91,6 +103,8 @@ Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [arXiv
 . Hybrid Compositional Reasoning for Reactive Synthesis from Finite-Horizon Specifications. In AAAI 2020.
 
 ### 2019
+- Long Zhang, Xuechao Sun, Yong Li and Zhenyu Zhang. A Noise-Sensitivity-Analysis-Based Test Prioritization Technique for Deep Neural Networks. CoRR abs/1901.00054, 2019. [arXiv](https://arxiv.org/abs/1901.00054)
+
 
 - Li, Yi, Sun, Xuechao, Yong Li, , Turrini, Andrea, and Zhang, Lijun
 . Synthesizing Nested Ranking Functions for Loop Programs via SVM. In ICFEM 2019.
@@ -99,6 +113,8 @@ Model Checking Strategies from Synthesis Over Finite Traces. In ATVA 2023 [arXiv
 . ROLL 1.0: ω-Regular Language Learning Library. In TACAS 2019.
 
 ### 2018
+- Yong Li, Andrea Turrini, Yu-Fang Chen and Lijun Zhang. Learning Büchi Automata and Its Applications. In SETSS 2018. [paper](https://doi.org/10.1007/978-3-030-17601-3_2)
+
 - Chen, Yu-Fang, Heizmann, Matthias, Lengál, Ondrej, Yong Li, , Tsai, Ming-Hsien, Turrini, Andrea, and Zhang, Lijun
 . Advanced automata-based algorithms for program termination checking. In PLDI 2018.
 
