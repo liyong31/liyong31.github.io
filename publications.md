@@ -8,7 +8,7 @@ Please refer to [CV](pdf/cv.pdf) for the full publication list.
 
 - Zhiming Chi, Lutan Zhao, Depeng Liu, Yong Li, Pengfei Yang, Bow-Yaw Wang, Rui Hou, Cheng-Chao Huang, Andrea Turrini, Lijun Zhang and Naijun Zhan. Synthesizing Probabilistic Saturating Counters with  Differentially Private Formal Guarantees. In ATVA 2026. [arXiv](https://arxiv.org/abs/2608.10521)
 
-- Ondrej Alexaj, Vojtěch Havlena, Ondřej Lengál, Yong Li, Nicolas Mazzocchi: Complementing Emerson-Lei Elevator Automata. In CONCUR'26 [paper](http://arxiv.org/abs/2606.26768) [slides](pdf/CONCUR26_slides.pdf)
+- Ondrej Alexaj, Vojtěch Havlena, Ondřej Lengál, Yong Li, Nicolas Mazzocchi: Complementing Emerson-Lei Elevator Automata. In CONCUR'26 [paper](http://arxiv.org/abs/2606.26768)
 
 - Yong Li,  Qiyi Tang and Di-De Yen. Hyper-Minimization for Deterministic Register Automata. In CIAA 2026. [arXiv](https://arxiv.org/abs/2605.03535)
 
